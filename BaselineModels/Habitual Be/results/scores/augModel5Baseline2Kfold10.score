@@ -1,0 +1,9 @@
+augModel5Baseline2Kfold102024-08-11T22:09
+              precision    recall  f1-score   support
+
+          -1       0.96      0.94      0.95       400
+           1       0.94      0.96      0.95       373
+
+    accuracy                           0.95       773
+   macro avg       0.95      0.95      0.95       773
+weighted avg       0.95      0.95      0.95       773
