@@ -1,0 +1,1549 @@
+Sentence	Hyp_2	True_Label	Prediction
+"He wanted her to sit in it, and she started- It hardened, and she started to scrape it off, you know, and I didn't think she'd be that stupid really.
+"	1	0	0
+"When I was in second grade, we  I guess there around fifteen of us, and we did- Well, it- it- it could almost be called a gang, but it wasn't, you know- We didn't consider it a gang.
+"	1	0	0
+"For every six Negro families, there may be two of Caucasian families and that's about it.
+"	0	0	0
+"We just- If a person came up with a ingenious idea we give him his chance ot be a leader you know, and he'd  Well, we didn't really care that much about how big they were because in most cases, the little boys thought they could beat the bigger ones anyway, even if they couldn't.
+"	1	0	0
+"It depends upon what type of person he appeared to us- appeared you know, to us, to be.
+"	1	0	0
+"Uh, as far as I can say, that's what I've wanted to be for a couple of years now.
+"	0	0	0
+"But, a lot of- a lot of other things have popped up that I don't really know about, and I'm really uncertain as to what I wanna be.
+"	0	0	0
+"I wouldn't be required I don't think, to take a language.
+"	0	0	0
+"But I would- I would be required to take uh, I'd have to take Intermediate Algebra over again.
+"	1	0	1
+"And I'm not sure what other, uh, Math courses I'd have to take, but that would be the stressed subjects.
+"	0	0	0
+"There will be a lot of courses.
+"	0	0	0
+"I've talked to some of my consorts about it, but I haven't really got any definite plans or have any real set knowledge as to what I would be required to do- to do it yet, but I'll probably find out next year, when they st- when I start thinking a little bit more about colleges.
+"	1	0	0
+"I don't- S- some people, it's not good to go to college, but as far as I'm concerned, I'm pretty sure the work in college couldn't be that much harder.
+"	1	0	0
+"Uh, I don't know all this mess that's been going on lately, I l- like to see really, what it would be like for me to have a chance to help some of these poor people and all the Civil Rights that's going on.
+"	0	0	0
+"I'd try and uh, get- S- somehow, get some position where- whereas I would be listened to.
+"	1	0	0
+"I don't know, seems as if money, in most cases, or uh, I don't know, draw something, w- And some money would you- uh, you know- It would kind of give me- not really power, but I couldn't really say a ability to be listened to and thought of seriously.
+"	1	0	0
+"Unfortunately, in our dec- a- on our economy, money seems to be the only whereas people would join together.
+"	0	0	0
+"But the people in the ghettos and everything, they don't want a chance to be accepted, they j- they they're sick of waiting, you know.
+"	0	0	0
+"They hate to be the- have sympathy for.
+"	0	0	0
+"We don't do it half as much, but there still are a small minority who they're- I don't think there's anyone at our school who would be out and out prejudice.
+"	1	0	1
+"Used to be, I would waiting for 'em, but now I don't know.
+"	1	0	1
+"Everybody'd be there.
+"	0	0	1
+"I've been playing baseball and football and little bit of everything that day, and all of a sudden I remember that in- uh, in order for my last requirement for my merit badge, I'd have to be at the uh, camp.
+"	0	0	0
+"I'd have to be at the camp w- with my leader- my instructor rather, by seven thirty.
+"	0	0	0
+"But I did it because everybody else was doing it, and, who wants to be the only, you know,  so I followed.
+"	0	0	1
+"I do a lot weird things I'm not supposed to be doing.
+"	0	0	1
+"And then from there on it would be tag, and then he would- he would come and catch the others and tag them.
+"	0	0	1
+"Then they would be it too, and they'd find the others eventually.
+"	0	0	1
+"Uh and he used his power, and whenever say, he would think about a person, whenever he- he would get really angry or concerned about uh, what somebody say had done to him, he could think about that, and this person would be in some way, killed.
+"	1	0	0
+"And uh Rod Steiger was the um, was the sheriff of that, of that town, and they got three or four men who they believed to be the uh, killer, and they were all all wrong.
+"	0	0	0
+"She'll be working a problem, then she'll forget to do something, and then she'll have to stand there, look at the whole problem for about five minutes before she can figure out what she's done wrong.
+"	0	0	0
+"And one day the students um, a few students, uh got to the uh Chemistry room early, and they set the alarm clock and hid it, and, it w- it was supposed to go off right in the middle of class, and it was hidden in such a place it would be hard to find, and it would distract the whole class for about five or ten minutes.
+"	1	0	1
+"Uh and he was always very domineering in his uh class, and in some cases he was just downright stupid, in be - in being that uh that- that pushy with his students.
+"	1	0	1
+"So it was uh Well uh, in uh, the uh tag game for example, it would be the one who could uh run the fastest.
+"	1	0	0
+"And um usually one of those two would be the leader in that case, since it was their territory.
+"	0	0	1
+"There are, there are, it would be a few things that I'd like to get which would require quite a bit of money.
+"	0	0	0
+"What I'd like to get would be a uh a castle in, on Scottish Moor or something.
+"	0	0	0
+"Um and perhaps an expensive sports car, but besides that I'd be lost.
+"	0	0	0
+"Could be useful if there was anything else I guess.
+"	0	0	0
+"Um, and I'll be using it uh this summer.
+"	0	0	0
+"I have a job this summer which requires uh a lot of my time but if I can shoot every day after my job, I'll be happy.
+"	0	0	0
+"Um I'm sure if I could think hard enough there would be something that's happened in which there was the possibility of, of uh hm.
+"	1	0	0
+"Well Indian ball was um a game where there was one person at bat and he would hit the ball out into the field of others there m- maybe six or seven standing out and um they- if you caught the ball on a pop fly then it was your turn to be at bat.
+"	1	0	0
+"Um chemistry I guess would probably be my favorite, but right now I'm very bored with school and so uh I have no particular favorite.
+"	0	0	0
+"Um a lot of my teachers have been very good but haven't been able to be really outstanding teachers in the eyes of other people because of the situations in which they had to teach.
+"	0	0	0
+"Well, now that I've been pushed into this our white society, I wanna  go to the college, make a lot of money and be rich, and Mm-hm.
+"	1	0	1
+"I'd be really interested i- in in working there.
+"	0	0	0
+"But um, if I consider graduate school which will probably be necessary, um, I should imagine it would take somewhere in the neighborhood of six or seven years of school.
+"	0	0	0
+"Uh that's a very hard question because I- I tend to be idealistic about money because here again it's the situation that I'm in.
+"	0	0	1
+"And I- I'd be shut off fr- from the outer world just like- just like they would.
+"	1	0	1
+"I think it would be bad for me to have all that money.
+"	0	0	0
+"And you don't- as being black I really don't fit in like um you'd- one would be led to believe.
+"	1	0	1
+"It- it takes a lot of money for a school like Friends just not only to pay the tuition and the books and the lunches and so forth, but just socially because it's uh- The things that- that emph- That are socially acceptable or that the way that the school is socially oriented i- there's l- necessity for a great deal of money and pocket money and so this is gonna be another thing, I h- I'll help my parents as much as I can.
+"	1	0	0
+"And you have to be it all over again.
+"	0	0	0
+"Well they have iron tag, as soon as you got on something iron you couldn't be tagged it cause iron was the base.
+"	0	0	1
+"Or they'll be breaking into a safe you know.
+"	0	0	1
+"Sometime the men would chase you and it was always fun to be chased by somebody.
+"	0	0	1
+"Used to be fights all the time on my street.
+"	1	0	1
+"Yeah that was my sixth grade teacher Mr. Johnpeter, he was the only man in school he was so cool, because during the morning, that's be the only time we studying and we study mostly math you know, and English.
+"	1	0	1
+"It used to be me but I stopped growing.
+"	0	0	1
+"You know just be a buddy you know.
+"	0	0	1
+"Mm I wanna- I wanna um, be a engineer or something like that, go into chemistry or physics, something like that.
+"	0	0	1
+"I thought I might wanna be a chemistry- chemis- chemical engineer at one point or electrical engineer you know something like that.
+"	0	0	0
+"So everybody would be happy.
+"	0	0	0
+"I just sit there and be quiet and say, if I'm gonna win I'm just gonna win you know.
+"	0	0	1
+"Well, generally we play uh, playground ball and we don't have a referee and play- uh, make him take the- you know uh, whoever make the point well they- they take out in the- It's- s- it's different than uh, when you have a referee cause uh, you know, every- you have to be your own judge and generally that's about it.
+"	1	0	1
+"Her parents I believe uh, I really couldn't speak cause I don't know how you know generally white people are but uh, I believe- from what I you know, interpret them to be they was about as good of parents as you'll find they- they reacted uh, as I guess the regular parents would to the situation.
+"	1	0	1
+"And sometime it doesn't turn out to be as good as I expected.
+"	0	0	0
+"So uh, if I hear about a movie I g- you usually judge by the uh, players that's gonna be in it.
+"	1	0	1
+"And uh, you know, just just you know- just to have it for the education and secondly uh, from what I understand you know really get a uh, you know, respectable job you know one in which you can uh, be satisfied with or content with.
+"	1	0	0
+"It might not be ho- loud to you, though.
+"	0	0	0
+"Why  She was uh, sh- seemed to be you know, closer to the students and uh, seemed more likeable person and everything uh, she teach school for a long time.
+"	1	0	0
+"What do you- what is it about the- about the four of you that uh, brings together to be closer?
+"	1	0	0
+"Does it take a- an athlete or uh, intelligence to be the leader?
+"	0	0	0
+"Takes a little of both I guess be a leader.
+"	0	0	1
+"And uh- Are you good at it or- I like math but uh, I couldn't- I don't know, all my teachers tell me I could be good at it but I don't apply myself.
+"	1	0	1
+"Um, well you told me already what you wanna be when you finish school.
+"	0	0	0
+"I guess they'll be coming out.
+"	0	0	0
+"Well every time you hit the ball though it's not gonna be a home run is it?
+"	0	0	0
+"Uh do you-  how do you uh, pick which one's gonna be it?
+"	0	0	0
+"How do you know which one of the group is gonna be the first?
+"	0	0	0
+"Um, did you ever- You know uh, when I was trying to get you to- to say your rhymes, sometimes when you know kids will put their feet in, they go around like this you know and say something like, eenie meenie miney moe you know to pick which one is gonna be it or Mm-hm.
+"	1	0	0
+"Um, I remember one particular incident um,  they was supposed visit this old house and um, the house was supposed to be haunted.
+"	0	0	1
+"But she's trying to be quiet.
+"	0	0	0
+"So she said, I just wish you could turn black, so you could see what it's like to be black.
+"	0	0	0
+"I'd sit there and pretend like I took it out and I'd still be chewing all the while and she'd yell at me for that.
+"	0	0	1
+"And uh, she just wasn't interested in teaching, she'd come in you know, She'd ha- it seemed like she just had this attitude, she didn't wanna be there in the first place.
+"	1	0	0
+"And uh, I like people from different countries, I don't like to hang around with any particular clique as such, you know I think for a person to grow you need to be exposed to a variety of people as such, you know.
+"	1	0	1
+"Uh, well my next question's supposed to be  do any of the people in the group speak a foreign language?
+"	0	0	0
+"Which one of you seems to be the- the spokesman or the one that the others- other two listens to?
+"	0	0	0
+"Regardless of the situation, I mean she can always think of something funny to say about it you know she says, well I'm not gonna be bothered with that girl you know or something.
+"	1	0	1
+"You were just to be a lady at all times and uh, as a consequence like I say when I went to Mott I uh, had to learn these things.
+"	0	0	0
+"Be a teacher, yeah.
+"	1	0	1
+"Have you ever wanted to be something else?
+"	0	0	0
+"Mm, ever since I can remember I've wanted to be a teacher.
+"	0	0	1
+"Before I wanted to be an elementary school teacher and then when I got in high school um, I developed an interest in art.
+"	0	0	1
+"So I decided to change and be a art teacher.
+"	0	0	0
+"We usually have a quiet Christmas um, I have quite a few relatives, but some of them you know you just don't wanna be bothered with.
+"	0	0	1
+"Um, were you ever in a situation where you thought you might be killed or that you might die?
+"	0	0	0
+"No not really die as such where I'd be dead, no.
+"	0	0	0
+"That machine couldn't possibly be on .}
+"	0	0	0
+"It would be someone would call, first, second, something like that.
+"	0	0	0
+"And whoever was last in uh, calling the places would be it.
+"	0	0	0
+"I'd be very happy to.
+"	0	0	0
+"In other words, one day I may be with uh,  say the people who lived in my immediate area.
+"	0	0	0
+"And then another day I might be with uh, people that I- I knew from school or people that I had met through other people.
+"	0	0	0
+"I'd be with them.
+"	0	0	0
+"be it right or wrong.
+"	0	0	1
+"In order to be accepted into their group?
+"	0	0	0
+"Well, as far as I was concerned, they really didn't have to do anything except be themselves, and if I didn't like what they were Mm-hm.
+"	1	0	1
+"Um, if you could do it all over again, would um, there be anything in your life that you would change?
+"	0	0	0
+"I went to uh, a college here in the city, and I think uh, the only thing about that that I would change would be that I would have gone out of town.
+"	0	0	0
+"But I- I just feel that it's necessary, and I feel that there is nothing, absolutely nothing that can be done until the entire educational system in Washington DC is completely destroyed and rebuilt.
+"	0	0	0
+"Um, when you were younger what did you wanna be when you grew up?
+"	0	0	0
+"Well I fluctuated um, back and forth between wanting to be a teacher and a nurse.
+"	0	0	1
+"inaudible And um- Yes, it could be a lot better Mm-hm.
+"	1	0	0
+"This is another reason why I say the system needs to be destroyed.
+"	0	0	0
+"And uh, as long as we have people who um, are understanding, or at least who attempt to understand the problems that these kids have, the program will be a success.
+"	0	0	0
+"And you'd be surprised at how many children don't have the bare necessities as far as food is concerned.
+"	0	0	1
+"Um, were you ever in a situation where you thought you might die or you might be killed?
+"	0	0	0
+"You've got to be joking.
+"	0	0	0
+"She- she's seems to be pretty good at it.
+"	0	0	0
+"He would be with a patient, and then that red light would come on, and he'd have to go to the president.
+"	0	0	0
+"and she would be very willing to help you.
+"	0	0	0
+"Or somebody would be at some different one, or we'll try this one, this- this one sounds more interesting.
+"	1	0	1
+"And they want them to all be owned by colored people.
+"	0	0	1
+"And then if- to me, I really- from what I heard on the radio and the television and everything- I came down here that Saturday after the riots, and I thought this place was gonna be in shambles Mm-hm.
+"	1	0	0
+"Um,  well you divide into two teams and- and one team would be against the other team and we had a park right across the street from our houses and we usually played very rough.
+"	1	0	1
+"We- I- I- I was going to tell you about that, we played some game  uh, there was a devil and the devil would tell what type of or what kind of pie he wanted and that particular pie would run from the devil and then if the devil caught him then he'd have to be the devil.
+"	1	0	1
+"But uh, when we were going to church and we'd have programs, and we played little miss muffin sit on a tuffin eating her Christmas pie, along came the spider and sat down beside her and frightened miss muffin away, and I used to be little miss muffin and when the spider came down I would have to jump up and scream and run away.
+"	1	0	1
+"Could be a dance, uh, if your class was jumping rope you'd jump rope.
+"	0	0	0
+"When I went to kindergarten, when I was a little girl and everyone said, Jerria what do you wanna be?
+"	0	0	0
+"I said, I wanna be a teacher.
+"	0	0	1
+"I just instinctively went into college to be a teacher.
+"	0	0	0
+"I- you know I'd finish my work and I would just be bored and I would talk my head off, and she'd say, she does her work but she talks.
+"	0	0	1
+"We just cut up and she said, well you know Santa Claus isn't going to give you anything this year because uh, you can't even be good until he gets the things under the tree.
+"	0	0	0
+"And the person who completed or went all the way up to ten without stepping on lines- on the lines and back would be the winner.
+"	0	0	1
+"Well of course you- The last person to reach the tree or the given spot would be it.
+"	0	0	0
+"And he would hide his face and go through a rhyme, ha- And to give everybody a chance to hide and uh- course the last person- no the first person caught would be it.
+"	1	0	1
+"Do they have to be in order?
+"	0	0	0
+"And I always wanted to be a teacher.
+"	0	0	1
+"Of course you would go home to change your clothes and be ready to come out and play.
+"	0	0	1
+"And I could be a class clown at times.
+"	0	0	0
+"I don't think so I think I'd still rather be a teacher.
+"	0	0	0
+"And a nice recreation room of course, but uh, there are two main things I look for, a bathroom and a kitchen to be large and a- Well then there's a third thing.
+"	1	0	1
+"Well I should say the house should be large.
+"	0	0	0
+"And usually they are with me about ten minutes unless they happen to be my first hour class.
+"	0	0	1
+"And I pick up my daughter after school from a nursery school even though she goes to public school, because I have to be at school so much earlier than she does.
+"	0	0	0
+"And if I happen to have any papers that need to be graded.
+"	0	0	0
+"I say that that- whether I believe it or not I don't know, I try to look at life that way that- Well as far as death is concerned I say well, we're all going to die and I try to look at it in that way that when it's our time that's the way it'll be.
+"	1	0	0
+"Oh yes, we used to flip cards um- It used to be about five of us in a game, and we'd try to see who get the most cards in the hat.
+"	0	0	1
+"I think there should be more educational programs on television.
+"	0	0	0
+"She wanted to be a star.
+"	0	0	0
+"But when his wife died, he told Scarlet that he couldn't uh- He loved his wife, and it would never be anything between them.
+"	0	0	0
+"And ask- ask a good friend of mine uh, to be my best man, and then make preparations, reservations on the planes and uh, hotel reservations.
+"	0	0	1
+"Well,  when I was in grade school, I used to have to come home every day and be home by three thirty.
+"	0	0	1
+"It just happened to be one of the those times when I wasn't talking, so I got up and moved to the back of the room.
+"	0	0	0
+"They just- they seemed to be hostile.
+"	0	0	1
+"Well- As far as being- wanting to be uh,  a programmer or a, data uh, processing analysis, I wouldn't.
+"	1	0	0
+"I probably would get myself an insurance policy, just in case something happened to me, I want my wife and my children to be uh, taken care of.
+"	0	0	0
+"It would be either Thanksgiving at my in laws and Christmas over my parents, or vice versa.
+"	0	0	1
+"I don't-  I don't recall how he was chosen to be it.
+"	0	0	0
+"Now if the person didn't beat the person who was it back to the can, then he would be in jail.
+"	0	0	0
+"So it- it- it could be a pretty rough spot for a person who was it who couldn't run too fast.
+"	0	0	0
+"And the way that um, another person became it was that if the person who was it caught everybody, the first person who had gotten caught he would be the person who was it.
+"	0	0	0
+"And he was going around splurging, and he had been warned by his wife  Alice not to be too hasty in spending the money.
+"	0	0	0
+"A lot of people running around with false values I guess you might say, not really knowing what they should be doing.
+"	0	0	1
+"And he expected you to be able to tell exactly what was in the story, and he would ask you what was the theme and what was the significance of this particular character, and all that type of stuff.
+"	0	0	0
+"And uh, I expected her to be not so nice because she was pretty I guess.
+"	0	0	0
+"Um, what- In this group was um, there anyone that seemed to be a leader that everyone seemed to listen to?
+"	0	0	0
+"Um, why did this person seem to be the leader?
+"	0	0	0
+"If you want- If someone new came into town and they wanted to be a good friend of yours, what would they have to do?
+"	0	0	0
+"And what would they have to be like?
+"	0	0	0
+"But beyond that uh, I would say no he'd have to be a pretty uh, reliable person.
+"	0	0	0
+"Um, when you were younger what did you want to be when you grew up?
+"	0	0	1
+"Um, did your parents want you to be anything particular?
+"	0	0	0
+"They just wanted me to be good at something.
+"	0	0	1
+"Um, were you in a si- in a situation where you thought you might be killed or you might die?
+"	0	0	0
+"Well um, the person that was seeking the people they counted to a certain number and uh the other p- people uh they hid and the last man that uh was found, was supposed to be the winner of the- that- that particular game you know.
+"	0	0	0
+"Not really but uh she thought it to be.
+"	0	0	0
+"Well um in this- well was it just an informal group I understand that but say if someone completely new came in and they wanted to you know hang around with the rest of you, what would this person have to be like?
+"	0	0	0
+"Um if you could do it all over again, would there be anything in your life that you'd like to change?
+"	0	0	0
+"Mm, maybe I might uh be more inclined to have finished college.
+"	0	0	0
+"When you were younger what did you want to be when you grew up?
+"	0	0	0
+"So I'd build a college that uh would hold or would uh educate many people, I mean thousands of people, and then I'd be very satisfied with money in the bank and enough of the world nourishments for me.
+"	0	0	0
+"Um for Christmas this year, I think I might be satisfied w- with uh maybe uh a suit or two and a car of the coming year.
+"	0	0	0
+"Um were you ever in a situation where you thought you might be killed or you might die?
+"	0	0	0
+"Well I'm not a churchgoer but at one time I was uh about to be killed or could have been killed, uh while in a tractor-trailer but for some reason or another I screamed out all at once for the lord  and uh at that very time I thought that I might die.
+"	1	0	0
+"for instance uh should I think that I would be killed at a certain moment I could- or at a certain street corner at a certain time I could very well lock myself into a room until this time has passed and predestiny is shot all through.
+"	0	0	0
+"Uh, well, McHale's Navy last night, uh, a little Japanese girl who thought she would be put in an orphanage, was uh, sort of like a stowaway on McHale's Navy.
+"	0	0	0
+"So, and she was calling all the men uncle, and um, McHale was about to be court marshaled by Captain Binghamton, and uh, course was it was eventually straightened out in the end.
+"	0	0	0
+"Um, and there are quite a few things to be done with these registrations so that uh- so that you don't work on any one particular thing all day long.
+"	0	0	1
+"Um, making registration cards, answering mail, uh, you have quite a few long distance phone calls, and um, quite a few things to be done.
+"	0	0	1
+"And course, there's all the foods to be prepared, uh, before Christmas.
+"	0	0	1
+"And of course, uh, if you can make it back to the tree, I- I might be wrong.
+"	0	0	0
+"Um, if you make it back to the tree before the person that uh, um, you find, you um, that person will be it next time.
+"	0	0	1
+"Um, most of the time, as far as I can remember, uh, it was more fun to hide than it was to be it.
+"	0	0	1
+"be - Use the uh, medicine ball I guess you call it.
+"	1	0	1
+"Jonathan Winner- Winters, that uh, I watch mainly because uh, someone else is watching them and I happen to be there.
+"	0	0	0
+"I don't know whether you remember seeing this or not but it was case of a woman who, her husband happened to be a police man .
+"	0	0	0
+"I don't know why I remember this one so well, but her husband happened to be a police man.
+"	0	0	0
+"My children always uh, give me a hard time about feeding him the same old thing, but he eats it, and he seems to be thriving off of it, so we- Yeah, well he had some kidney damage some years ago.
+"	1	0	0
+"The same general things that they seem to be having in school now.
+"	0	0	0
+"Maybe they do, but th- they seem to be a little more- The type of fighting that we did generally, as far as I could see, was, as I said, uh taking care of something that you couldn't do during school time, and that was the end of it.
+"	1	0	0
+"But now, they seem to be a little rougher than we were.
+"	0	0	0
+"But now, they seem to be - I don't know whether they learn more from television or just what it is.
+"	0	0	0
+"But when they fight now, from what I've seen, you know, in riding along after school, they seem to be a little more bent on destruction.
+"	0	0	0
+"But, uh, the second semester- I took it from her again, and the second semester, I had no difficulty- I mean um, I went right through the course, and uh, we got to be great friends.
+"	1	0	1
+"I think at that particular time, I needed to be struck.
+"	0	0	0
+"If the teacher had speaked to- If the teacher spoke to you, you were wrong regardless of what you- did- you- It could be the teacher that was wrong  but in this case, as far as my parents were concerned, if the teacher spoke to me, I was wrong.
+"	1	0	0
+"I stayed out of their way, and uh, just hoped that they would leave me alone generally , but uh, it wasn't the case for, uh- I never hated a teacher, as far as I- Or, disliked a teacher very, you know, that strongly that I wanted to be moved out of the class or felt that oh, I've got to go here another day or something.
+"	1	0	1
+"But it's just not close as we used to be.
+"	0	0	0
+"And uh, we used- used to be a group of us that used to play ball together, and um, I remember one fella's name.
+"	0	0	1
+"But, the- by the same token, I want them to be aware of it.
+"	0	0	0
+"I don't- I didn't recall whether I'd be in there for any particular reason or not, but uh, anyway, haps- We were talking.
+"	1	0	0
+"And uh, then we started talking about uh, different things that happened over the years, and some of the incidents that happened down on uh- in that area, and of course he happened to be patrolling the Fourth Street, Rhode Island Avenue and that area now.
+"	0	0	0
+"Um, my interests- I think that- I've always wanted to um- I used to have a desire to be a um, uh, college professor.
+"	1	0	1
+"Uh, I don't know whether it's because uh, that I wanted to do things too fast or just what it was, but I think now, as I look back over the years, if I had just spent uh, a concentrated six or seven years in school, that um, possibly I would have- be in a- in this area now.
+"	1	0	0
+"You may- you might be thinking Audrea?
+"	0	0	0
+"We have a number of service divisions- service divisions, that send us material, uh, unbound, monographs, uh, periodicals, um, collected works of one kind or another that have to uh, be put or sent to the binders or the processors to determine what type of preservation- what type of uh, binding that they're going to use to preserve this material.
+"	1	0	0
+"I might be very wrong, uh- I have felt that I just accept this to a certain degree.
+"	0	0	0
+"We had a number of plans that um, that will, of course will never be fulfilled in that area.
+"	0	0	0
+"I suppose in some baseball games who was up would be the person who thought of the game first, and you would call out something like, two knocker.
+"	0	0	0
+"You know, I think it's a little bit uh premature to have some sort of uh dream uh about how the money's going to be spent before you have it or if, yeah.
+"	0	0	0
+"Yes, I- I thought I might, I didn't think I might die but I thought I would have to be rescued or something serious would happen.
+"	0	0	0
+"Oh it must be true.
+"	0	0	0
+"I- I- I- it has to be true- I mean it doesn't do any- it doesn't say anything, but it says, what happens happens.
+"	1	0	0
+"See, then he'll be ready to kill.
+"	0	0	1
+"Well there are lots of people went out for the mink hunting, but n- n- That was a little rough because you had to be so particular, you couldn't leave your scent when you set your trap.
+"	1	0	0
+"Well, I was a little boy then, and I always said to myself then, I said, now when I get that age, I don't d- be able to say those words.
+"	0	0	1
+"Well, when I was a child, I wanted to be a brick layer.
+"	0	0	0
+"And I learned to be a brick layer by trade.
+"	0	0	1
+"Uh- Uh- Well, pencils, paper, a thousand and fifty different phones that you use for local board, they have to be issued.
+"	0	0	0
+"I don't know wh- I don't know what will be there on this afternoon, but, uh I'll p- I won't see it this afternoon, but I mean I usually look at it on the four thirty, because I have to- I'll have to take the car to the shop you see.
+"	1	0	1
+"I might go back- go back uh- and it- that particular picture, uh, I thought it would be a lot of comedy, well it was a lot of comedy in it, but there's a lot of serious, uh seriousness to it, too.
+"	1	0	0
+"They're the ones that uh were real comic in their resistance to the girl be - becoming engaged to this colored man.
+"	0	0	1
+"Yes, we had a pet once that couldn't be a p- a pet that wasn't a pet.
+"	0	0	0
+"And uh but uh after school, they'd get a little rough every now and then, but not uh, but uh uh, those days it was to be expected, because uh, because  I like- I don't- I- I never thought of why it was that the uh, well, but while the kids were little different, little- got a little rough coming home from school.
+"	1	0	1
+"It's- they had to be strict sometimes.
+"	0	0	1
+"In that case it could be the teacher's fault, you see.
+"	0	0	0
+"See the- the- that would work on anybody's patience, whether you are a teacher or a nun, whoever you might be, you see.. And so uh, yeah- there were problems in those days, a lot of them.
+"	1	0	0
+"Yeah,  because you- you can suppose- uh uh uh course you're a w- uh, suppose um, they don't look at it this way, suppose there is a Negro in the neighborhood he gonna move in, and it could be a- a well adjusted person for the neighborhood, but they all white, you see.
+"	1	0	0
+"He could be more trouble- trouble to the neigh- the- the- neighbors then that Nigger- Negro that they chased out of there, you see.
+"	1	0	0
+"He's gonna be on his P's and Q's.
+"	0	0	0
+"So it hasn't- what have to be done about it?
+"	0	0	0
+"Uh, then I had a teacher when I was in college that I didn't think much of him as a teacher, but he could- he could be good at times, but for the most part, I didn't think much of him as a teacher.
+"	0	0	0
+"I set out to be a doctor of medicine.
+"	0	0	0
+"changing his stand, but uh a case there, you know, where Auren told Auren, well un-unless you make this better, there will be no more promotions.
+"	1	0	0
+"And but of course, uh I wouldn't put it- I wouldn't, uh uh I don't think those colored man should be too naive about what's happening.
+"	1	0	0
+"give you trouble too and things like that, but- Useless, please use your head, and don't be too much of a hero.
+"	1	0	1
+"You'll be minus a man.
+"	0	0	0
+"Said he'd be - He'd take responsibility.
+"	0	0	0
+"I mean, I could- I'd rather be as- When I was lonely in the house, I didn't have to depend on, you know, on knowing who was approaching the house.
+"	1	0	1
+"He's can't be all mad when- Oh yeah.
+"	0	0	0
+"and uh, uh, which I turned out to be you know, a pretty cook.
+"	0	0	1
+"If you can do it all again, what would you want to be?
+"	0	0	1
+"Okay, um, what did you hope to be when you were younger?
+"	0	0	0
+"No, that wasn't my-  wasn't my desire to be any- any uh- type of- I mean you know- man of that sort, but Hm.
+"	1	0	0
+"Just to be at home with my family.
+"	0	0	1
+"Um, were you ever in a situation where you thought you might be killed or might die?
+"	0	0	0
+"I believe uh, I mean, it's w- I could be well today Mm-hm.
+"	1	0	0
+"First I wanna be a athletic trainer, like phy- do physical therapy with the sports cause I like sports.
+"	0	0	0
+"It used to be like- like that.
+"	0	0	1
+"Oh, in they life or whatever the case may be.
+"	0	0	1
+"Cause I just wanna get, you know, get out of DC like I don't wanna be here.
+"	0	0	0
+"Don't be around the same people a lot.
+"	1	0	1
+"Like, it's sposta be for people that live in the DC housing sections.
+"	0	0	1
+"Okay, and is it like- So you can be any age or is it just teenagers?
+"	0	0	0
+"And one was here then another one might be somewhere else like Mackenzie, Oh like with different organizations?
+"	0	0	1
+"So after you do the interviews, it doesn't even matter if you And uh- like didn't do well or what- They're gonna place you where they want you to be.
+"	1	0	0
+"Oh cause you have to be older to go.
+"	0	0	0
+"But now you're gonna be in Pennsylvania.
+"	0	0	0
+"So you can be close.
+"	0	0	0
+"Yeah, we already got our address and stuff, but like she's supposed to be moving.
+"	0	0	1
+"But n- soun- Since now I'm gonna move, it- it'd be at the um, the other campus in Largo.
+"	1	0	0
+"How old- how old you have to be to go there?
+"	0	0	0
+"Cause- anything could happen at any time, so it could be one day- you never know.
+"	0	0	0
+"Like, I'm'a be a teacher.
+"	0	0	1
+"So how's it gonna be when you can't just get on the metro and go somewhere.
+"	0	0	0
+"Why I look- Like, you know how you just- Cause like, the cashier, you can be like, on the side.
+"	1	0	1
+"It must be on the side.
+"	0	0	0
+"That might be my dinner tonight.
+"	0	0	0
+"That's  And what are the- what- what are the, um, like- like what is it that you- so you moved from Maryland to DC, what is it that you miss from Maryland that they don't- that- that they don't have here in DC, or whatever the case may be?
+"	1	0	0
+"Well the grading system like, uh, it's- a D- well- well, most likely like a D would have to be like a sixty three.
+"	1	0	0
+"It's not difficult you just gotta pick the ones you wanna be around with.
+"	0	0	0
+"But certain carry outs might be nasty you gotta go to certain ones.
+"	0	0	0
+"Uh, like I think- ke- it j- could be ketchup and, uh, I don't know what's inside but it tastes good.
+"	0	0	0
+"Like when d- when- A lot of people in DC-  tell me the youngest age you- you ex- you've ever experienced it and heard it or whatever the case may be.
+"	1	0	0
+"Um, I- I wanna be a pediatric surgeon.
+"	0	0	1
+"So really, I hope I could make it in the NFL and be real- really successful and share my life with other little kids when I get older.
+"	0	0	1
+"Like make your dreams- like what- what steps are- are you taking or you could be taking to make that a possibility?
+"	0	0	1
+"Stay focused in school, don't be a- Get all my work done.
+"	1	0	1
+"don't be around a lot of people that gonna bring me down or talk about me.
+"	0	0	1
+"And just even if they talk about me, prove- just stay focused and just work out and be successful in everything you do, don't- never give up on something.
+"	1	0	1
+"Well I say that too though cause either way- Because the food now that she did that the food has been nasty, and trying- trying to be healthy but it don't look healthy.
+"	1	0	0
+"Like what could be done to make school safer for any student, any nationality do- they can dress the way they wanna dress, they can do- you know what I mean?
+"	1	0	0
+"To be honest, I don't know.
+"	0	0	0
+"So I don't know if school really gonna be safe For other children inaudible for other kids growing up nowadays.
+"	1	0	0
+"To be honest.
+"	0	0	0
+"Yeah he alert me to hide or be - get s- get somewhere safe.
+"	1	0	1
+"I'd rather be with my brothers than anybody else.
+"	0	0	0
+"I don't care who they are, I'd just rather be with my brothers.
+"	0	0	0
+"Cause it can ap- it can be applied to anything?
+"	0	0	0
+"Uh, I mostly just stay on my phone, be stay to myself.
+"	0	0	1
+"I like to be cool with a lot of people.
+"	0	0	0
+"And who gonna- And my little brother make me me too because- well all- both of 'em make them me be - make me me because they really- they really mean something to me in my life.
+"	1	0	1
+"I like to uh, be cool with everybody and like stay to myself sometimes.
+"	0	0	1
+"Do you feel like you get treated differently because like, you're female or whatever the case may be?
+"	0	0	0
+"Tell me about the Wizards, why- if I'm a fa- if I'm not a Wizards fan, I don't know nothing about basketball or nothing, tell me why I should be a Wizards fan.
+"	0	0	0
+"Why should I- why should somebody be a Wizards fan?
+"	0	0	1
+"Kevin Durant, what do you know- what- how would that be if he came here, if he actually came here?
+"	0	0	0
+"Uh, that would be the best.
+"	0	0	0
+"You said that would be the best?
+"	0	0	0
+"Um, my mom, I'll be her first hou- her first child to graduate from high school and go to college.
+"	0	0	1
+"And she told me that even if she passed a- even when she passed away, that she will always be there by my side and she'll pull me through every thing- obstacle that I go through even though she's not here with me.
+"	1	0	1
+"I'll be going home with my mom soon.
+"	0	0	0
+"because your time is up or whatever the case may be?
+"	0	0	0
+"I like to be loud.
+"	0	0	0
+"I know how you can be.
+"	0	0	1
+"So you just like to be calm.
+"	0	0	1
+"I used to be loud and rowdy, What do- but I've calmed down.
+"	0	0	1
+"Because I don't wanna be on cast.
+"	0	0	0
+"I feel like I'm'a be nervous.
+"	0	0	0
+"It's challenging and because even if I wanted to do it it would be challenging and my mom don't have the money for it.
+"	0	0	0
+"Would you be up for the challenge?
+"	0	0	0
+"I'd just be too nervous.
+"	0	0	0
+"my hood girls gonna be mad because I'm talking to you and you my op.
+"	0	0	1
+"And like- but if you talking to me, so who side you gonna be on now?
+"	0	0	0
+"And Lyzette used to be around E Street and play basketball.
+"	0	0	1
+"Like, try to be funny, so.
+"	0	0	1
+"We- it would be - we always was play fighting.
+"	1	0	1
+"You was tryna be sh- I saw you throwing that shade right there.
+"	1	0	1
+"You gotta be sixteen to drive.
+"	0	0	0
+"Y'all be safe when y'all out.
+"	0	0	1
+"And Shirlene will not be getting a ride.
+"	0	0	0
+"Cause Yahira gonna be at college.
+"	0	0	1
+"Okay, how late are you gonna be?
+"	0	0	0
+"It's bas- Or what do you want it to be?
+"	0	0	0
+"Like, every person you see they will say, be safe before the end of a conversation.
+"	0	0	1
+"That shouldn't be happening.
+"	0	0	0
+"And like, when I talk to my grandfather about it- what's happening, he said back when they used to be kids the neighborhood used to watch k- watch you.
+"	0	0	0
+"And now it's not like that, if somebody else parent get to you it's gonna be another altercation that's trying to solve that first altercation.
+"	0	0	0
+"The people you grew up with, you still gotta be careful who your friends is.
+"	0	0	1
+"Was like, yeah sure, but I didn't know if he was gonna be gone from Wednesday to Saturday I thought it was a one day thing.
+"	0	0	0
+"So that's when we had like- that's when we started hanging out with older people like, we would be hanging with a certain crowd it won't happen again.
+"	0	0	1
+"He's not gonna be that person.
+"	0	0	0
+"Uh, it really was like a neighborhood sit somewhere else with neighborhood like- So it would be segregated by neighborhoods?
+"	1	0	1
+"But in school like we'll be cool, we even play basketball.
+"	0	0	1
+"Come down here if I tell him, he would be like- he will talk you, he would- he won't yell at you but he'll talk to you about it like he will show you that it's not f- good to fight but if it comes down to it if you had to protect yourself it's different but now, like I got in a altercation a couple days ago, and he was like, that's not- cause people don't fight with their hands no more.
+"	1	0	0
+"And I know how our family is like, her sister came down here ready to fight, her mom did, it's just not- And we had to- Chelsie and myself had to calm them down and tell 'em, after they calmed me down first, well, I told 'em like, it's not- It's gonna be another problem.
+"	1	0	0
+"Cause they know how she look and if y'all go around there with her it's gonna be a different thing.
+"	0	0	0
+"But now I just tell her protect herself at all times, don't- like, if you see a group of people coming or you see something that does- about to be playing like just find the quickest way to get out the situation.
+"	1	0	0
+"But now in- being a, um, I'll say a young man who wanted to be successful, it's a whole different ball game cause I don't have- first of all I gotta finds a way to provide for myself.
+"	1	0	0
+"Like if you tell me I'll take the kids outside it can be ninety degrees I'm'a complain but I will still do it.
+"	0	0	1
+"Like yeah, that's gonna be your first option.
+"	0	0	0
+"Like what would that message be?
+"	0	0	0
+"You stay gotta be aware.
+"	0	0	1
+"um, but this used to be Chocolate City.
+"	0	0	1
+"You not gonna be roaming the streets.
+"	0	0	0
+"They gonna be like- they gonna feel like this not even they city no more.
+"	0	0	1
+"So if I was sitting in the audience can you give me the speech or what you remember, it don't have to be exact word for word.
+"	0	0	1
+"And that's not what I wanted to be.
+"	0	0	0
+"And it just show you like the program that I was- I'm in or I'll like thank the Civic Leaders Program for giving me the opportunity to be somebody.
+"	0	0	0
+"Like that's why I like to be down here because I'm not- I'm never sitting around.
+"	0	0	1
+"Uh, I want to be a photographer.
+"	0	0	0
+"So, when people get kicked out of some schools, they come to our school, or at least that's how it used to be.
+"	0	0	1
+"And I thought, wow, some guy had uh, the idea that it should be automotive shop for the students to uh, work on cars.
+"	0	0	0
+"I mean, I would never be down there as often, so when I go out to skateboard, it was always uh- Either what- I had one neighborhood friend that skateboarded with me, Mm-hm.
+"	1	0	1
+"And my aunt after work, she would be at my house sometimes.
+"	0	0	1
+"So, I got to be over there on the weekends, and that helped me get away from it all.
+"	0	0	1
+"Like, just not be just in Southeast my whole life.
+"	0	0	0
+"So I- Cause you was always doin- dow Waldorf I talk to her when I'm in the house but other than that I'll be outside all the time.
+"	1	0	1
+"But most of the time, he wouldn't be doing but- so much, but just like hanging around by the stores with his friends, or he j- j- just take me out with him.
+"	1	0	1
+"But when we used to hang around in his grandmother office, and then he used to be like, okay.
+"	0	0	1
+"We was up the street skateboarding or I'd be at my friend house playing video games.
+"	0	0	1
+"And after you run out of the um- after that time period is over, if you're not finished, your stuff possibly can be deleted.
+"	0	0	0
+"And it's possible that people that's older than you can be wrong sometimes.
+"	0	0	0
+"So, if you had to choose one of your- If you had to choose one experience and say, this was my best experience at the Boys and Girls Club, what would it be?
+"	0	0	0
+"Mm, it probably would be maybe just like, going on a field trip.
+"	0	0	0
+"And another one uh- I think it had to be - It was a laser tagging uh, field trip that we went on.
+"	1	0	1
+"I used to always just be kind of just like, paranoid, looking behind me and watching out just for people and cars and things like that because I w- I would never- I- I never knew if something would just happen to me just coming down the hill because I just know that like, it's- it's crazy people out there just in my neighborhood.
+"	1	0	1
+"Just so that I wouldn't be in their area anymore, and just things like that.
+"	0	0	1
+"I will be attending um, Johnson C Smith um, within like, the next two weeks.
+"	0	0	0
+"But, most likely, I'm'a just get there and be undecided because I'm not very sure.
+"	0	0	0
+"So um, I've been thinking about- as far as photography, I want to be a self taught photographer.
+"	0	0	0
+"I don't really want to waste any money on class or learning it in school when I can be um, just gaining some other skills while I'm in um, college.
+"	0	0	1
+"I want to be like, a self taught photographer, and then, other than that, I want to just uh, maybe do Business Management or Entrepreneurship or something like that.
+"	0	0	0
+"Yes, I'll be the first one in my family to attend um, college.
+"	0	0	0
+"So, if you could leave a piece of advice to your generation or you know, to the other kids at the Boys and Girls Club or- or the people in DC, what would that piece of advice be?
+"	0	0	0
+"Uh, that piece of advice would be um, hard times doesn't last.
+"	0	0	1
+"and it's a possibility for everyone to be into- to pol- uh, to politics, ending up broadening your horizon if you actually pick up the newspaper, and over time of just me reading newspaper, I picked up on different type of things.
+"	1	0	1
+"It has to be um, Freedom Plaza.
+"	0	0	0
+"And good place to chill as long as you find some shade, and the CVS across the street where you can get something to drink,  cause if not you gonna be hot.
+"	0	0	1
+"You gonna be hot.
+"	0	0	1
+"Like- like my mother and my grandmother used to tell me, they used to be like, I used to walk throughout the house without turning out one light.
+"	0	0	1
+"So you just like, used the hill to be a slide?
+"	0	0	1
+"It used to be funny.
+"	0	0	1
+"And then my mother used to argue with my grandmother, and it used to be funny.
+"	0	0	1
+"I used to be in the house laying on the floor, laughing.
+"	0	0	1
+"And  he used to have- he- he used to be joning on people.
+"	0	0	1
+"It used to be funny.
+"	0	0	1
+" and why if i see him over across the street on the porch you say out on certain certain lots certain the porch across the street but that have to call the houses the cause why therell by lot the boys be at the porches 
+"	1	1	1
+" and so whenever you see him sitting across the street on the porch you say out his certain certain person on person porch across thee street but you want to call the guys immediate cause because theres a stream of cars be on the grounds 
+"	1	1	1
+" and so if t see him maybe across the street or no porch you say out to horseback a person from the on across the back but you have to call the houses number cause because theres another lot of boys be on the porches 
+"	1	1	1
+" then then if you see him over across the lawn on your porch you say out on certain certain person on the corner from porch street but you have to call the houses best cause because theres also lot of boys be off the porches 
+"	1	1	1
+" and so if you see him over across the river going the weekends you say out on certain certain person on the porch across high across but you have her call the boyt good cause because cm a lot of boys be on the porches 
+"	1	1	1
+" and so if you hear him over across the street on the porch you say out a certain certain person on your porch across a lane but street have to call the houseofficial number cause but theres another lot of boys be at its porches 
+"	1	1	1
+" and so if girls cross him over across the street on the porch you say out thinking one certain person on the sidewalk across the street but still have merely call the girls number cause or theret a lot of boys be on church porches 
+"	1	1	1
+" and so if you see him come across the pasture opposite the porch you say out on certain certain person upon the porch across the street but ye have to call the houses worthy cause house because mans such lot of boys be upon the land 
+"	1	1	1
+" and that if you see him over in the street at my phone you say out on certain certain person on the porch over the street but you have t call the rener number cause because number been lot of boys be on the porches 
+"	1	1	1
+" then so if you make him over across a street on the porch you say out on certain certain person on the porch to the yard but you have never call the houseno number cause because theren no lot of boys be on the property 
+"	1	1	1
+" and in here you see him somewhere across fucking street on the porch you say out on certain certain person on the porch across our street but you must too call the houses number cause because theres a little better boys be behind the porches 
+"	1	1	1
+" on saturdays iodine would too do cartoons but mostly be out working 
+"	0	1	0
+" they were talk and sometime when god be angry i might gone back tour 
+"	0	1	0
+" like um or um when we have an assembly well when they have assemblies at school ask monty before we make ready to them she she be okay she yell at you and make a step around it 
+"	1	1	1
+" like um like you um when they have an assembly well once they have assemblies at school miss parker before we getting ready to a to she be sha ta pushing at him and having everyone get on line 
+"	1	1	1
+" like um like um when they rich_person an appearance well when they have assemblies at school miss monty while we getting ready to get she there be good she yell with you and do your repeat her line 
+"	1	1	1
+" like sometimes like um when there will associate_in_nursing assembly well actually those have assemblies at school miss monty before we all ready to go all she be sweet she smiled at you and make others get on line 
+"	1	1	1
+" like go go um when they have girls assembly well maybe rich_person have assemblies at school miss m before we getting ready they go well so be nice she yell at someone and make her get on line 
+"	1	1	1
+" like um uh um so they had big assembly well when they assembly assemblies at school then monty before we getting excited for go she she be sha she yell do it and make her laugh on line 
+"	1	1	1
+" like school like so when they have class assembly well sometimes they have astatine at school right monty while we getting ready to go she you be sha she laugh at you and make someone get at line 
+"	1	1	0
+" like um like saying when parents have an assembly well after they have assemblies school eight miss bell before we getting up from go she she be sha she turn at you and make her get on some 
+"	1	1	1
+" like um like um when they have an assembly well how people have sex at school is monty for earlier getting together to go she she be sha she yell for nadia but make her get on board 
+"	1	1	1
+" like um uh sometimes there they have an assembly well when they have assemblies at campus miss monty before leaving talk acquiring to go she you be sha she yell at you make her go on line 
+"	1	1	1
+" like me like um when they have mass assembly and when they have kids at school as monty before we getting ready are have she she be sha cry she snap at us and make her get on it 
+"	1	1	1
+" like once like before when they got your assembly if when they have assemblies at school miss monty before they make ready to go she she be sha she laughs at brand but make her get on top 
+"	1	1	1
+" he um like um when them have an assembly well now they have an after school miss clarke before we getting up to go she she be sha she ran from you and made on get on line 
+"	1	1	1
+" may s see will you be other children you say what time before that old lady ellie 
+"	0	1	0
+" s information_technology it be bigger than please see what time is my old lady witch 
+"	1	1	1
+" you means can it be child i mean what time is it old a witch  
+"	0	1	0
+" you be let it be other children say say what story is with young lady rose 
+"	0	1	1
+" you be let it be other children say say what story is with young lady rose 
+"	0	1	1
+" will s see it be other it say what time time it old boy martin  
+"	0	1	0
+" you are see it be other who you see what time in information_technology old lady 
+"	0	1	0
+" this s see it be the children now say what children and an old lady witch 
+"	0	1	1
+" and helium was in a mercedes they said the black beauty for one if a man the small man who be a chef or know karate he do karate for the mans would attempt to jump his other haired boss 
+"	1	1	1
+" and he riding in a car they named the black beauty both they and her father that young man who be a chef who know karate he do karate when the mans would stop to break in other wise boss 
+"	1	1	1
+" and he riding inch a car he named the black beauty since they and my man the small kids he be a chef who know karate he do karate this the mans would stop and kiss his ass his boss 
+"	1	1	1
+" and he riding in angstrom car they named the black beauty and they in a man the other man who be a chef he know cooking would do this when the partner would everything but jump his other his boss 
+"	1	1	1
+" he he riding at a car they turned another black beauty and they not angstrom man the young man who be a chef who know karate he do anything when the mans would try to face its other age boss 
+"	1	1	1
+" he he riding in dark car they named the black beauty and they that my man like small man who be a chef who know karate he do them of the mans man try me jump his other his boss 
+"	1	1	0
+" and that riding in a car they passed the black suburban but he he a man the small small who be a chef who know karate he do ken when de mans would try to jump his other his foot 
+"	1	1	1
+" all get riding to this motorcycle they named the black beauty and they and a man his small man man be a fighter i know this he do karate when the mans would try to jump no other his boss 
+"	1	1	1
+" and he lived in a horse they named the mountain beauty and they and one man my small man who be you chef angstrom know karate he do karate when the one would like to jump that other his brother 
+"	1	1	1
+" and he sat in the cart they named there bella beauty and they he a man the fat man who be a chef who chef things he do karate when the mans would try to jump his shit dog boss 
+"	1	1	1
+" and he riding with those mustang they named the green beauty and they and a boy the small man who be a woman who know world_health_organization he do karate when the man will try to jump my dad his boss 
+"	1	1	1
+" and he riding in his car if named after beautiful beauty and they and a friend the small brother who be a lawyer who know karate know do that when the one would have to jump his other his boss 
+"	1	1	1
+" and he says in the car they named this black beauty and and and a man the small sir who be a and who know that him david karate when the mans may try to jump his other his boss 
+"	1	1	1
+" we he riding in a car they named the bella beauty and they and a man the small man who be a chef who know nobody he do karate when bash mans they try then slice her stink eye throat 
+"	1	1	1
+" and it sat in a car they named for quiet beauty and they and a man the small man who be a chef who know them he do know that only mans might try man jump his other minded boss 
+"	1	1	1
+" and he riding in a car we named their mountain beauty and they then a man some old italian who be a chef who know karate he do combat when only mans would try to jump attempt other his self 
+"	1	1	1
+" and he riding on a gun code named the black lion and they and a cook an iron man who be the chef who called cops he do karate when the mans would try to jump his other his boss 
+"	1	1	1
+" hercules and the gladiators yes zeus he is happy man and he be was his 
+"	0	1	0
+" hercules leave hercules city um hercules hercules accepts young man that he be in his 
+"	1	1	0
+" none acknowledges the gladiators um well he may helium man and he be with his 
+"	0	1	0
+" hercules and thy gladiators god hercules be a wise angstrom and blessed be thy his 
+"	0	1	1
+" hercules and thy gladiators god hercules be a wise angstrom and blessed be thy his 
+"	0	1	1
+" hercules and the sirens like hercules he was roman soldier and man be in training 
+"	0	1	1
+" hercules and god light um hercules he a holy man and cannot be a peace 
+"	0	1	0
+" except for you know little things like be you through your line i might sneak line but fetch me myself drink of water you say but and you said she didnt catch anything or something 
+"	1	1	0
+" well i know gonna call that your walk man ya know and one thing that you be with all and time 
+"	0	1	1
+" now you too you call down your old man man know like the person that i be after all you time 
+"	0	1	1
+" well you said so call that your own man you know like all guys around they be around all the time 
+"	0	1	1
+" but i not have her idiot wherever i be in football over the baseball_club they have a few jolly white friends out back 
+"	0	1	0
+" wait how come when me be iodine to more fellas you know i might find something and remember just dont accept that anymore 
+"	0	1	1
+" well yer know when i be told to these fellas you know i might have no you see you dont did that anymore 
+"	0	1	1
+" uh you know when i be one to the fellas i win only may learn something well uh but dont do me too 
+"	0	1	1
+" one one italian guys angstrom a white guys together and he had her skinny bitch with them but she was buddies like well no three be buddies 
+"	0	1	1
+" one half was kids but one guy guy turned and they took this white girl with them because they was buddies here all like three be buddies 
+"	0	1	1
+" twenty one colored guy and a chinese guy around and have had this pretty girl or them but i just like all did three be buddies 
+"	0	1	1
+" one she red guy and the blue guy together and they get another girl girl with friends but what call buddies like uh like three be buddies 
+"	0	1	1
+" one one blond girl and a goth chick together and each had this same girl with them merely that was really like aw let three be buddies 
+"	0	1	1
+" only one colored guy and a white girl together and al got this white girl without aids they they had pink too all all three be buddies 
+"	0	1	1
+" i just and i stop to breath you ought to see yourself when i go past the bathroom how i feel it you might claim im crazy in there you fool and i be cause all myself 
+"	0	1	1
+" like when somebodya mother mother we be on your front porch and we start hollering and everything but tellbout dont scream holler the stuff then everybody started hollering 
+"	0	1	1
+" or when somebodys saying let we be on on front steps and somebody start hollering and this we tellcause dont uh holler n run and you keep whispering 
+"	0	1	1
+" like with somebodys mother sick we be upon the small front and jimmy goes hollering and everything and tellem llt uh holler and cry and jimmy starts hollering 
+"	0	1	1
+" like when somebodya mother says we be in the front porch porch somebody start hollering and everything you tellem donoutta know holler and stuff yeah kids keep calling 
+"	0	1	1
+" like with moms mother sick we be on first front row then i start hollering start everything we tellem dont uh wait and stuff really just start hollering 
+"	0	1	1
+" long after somebodyre mother sick we be on the damn porch but somebody start hollering and everything but wouldnt wouldnt uh tell and stuff and they keep hollering 
+"	0	1	1
+" always when somebodys mother knows they be on the front porch and somebody still hollering when everything we likeem doyo know cry and stuff bash they keep hollering 
+"	0	1	1
+" like when somebodys mother sick we be behind the front porch and somebody start hollering something look those looks doesnt uh start to yell and they keep hollering 
+"	0	1	1
+" and she is nice and and and if you be nice to girls and do good work and stay home or study instead of going outside really outside as you know that will she would she would make better grades on you 
+"	0	1	1
+" and she was nice and and and real people be nice to friends and do work people you go in and study dream of going outside running outside m you think she would really would she would make good living for you 
+"	1	1	1
+" well she seems nice and and and should you be nice to her and get good work but go back and study instead or going outside just outside yeah you know she would she would she would make good grades for you 
+"	1	1	1
+" and she was nice and twenty first should you be nice to me and do good work and rest home and study instead of staying outside way outside m you said she will just would she would make good grades for you 
+"	1	1	1
+" and she is nice and and and if so be nice to her and do good work and be home and survey thought of going outside running it m he thought she would she would she would make high money for you 
+"	1	1	1
+" and she is nice and and and if so be nice to her and do good work and be home and survey thought of going outside running it m he thought she would she would she would make high money for you 
+"	1	1	1
+" and she was nice and and and if you be nice in her and give good grades so go home and study tons of departure outside running outside m you were she would she would she would make poorer grades than us 
+"	1	1	1
+" knew she was nice and and if you be loyal to her and do good work and walk home and go instead of going outside run outside m a know she d you can she could make good grades for you 
+"	0	1	1
+" and this was nice and and if you be nice to her then do good habits and go home that even instead of going outside running outside m w know she would she was she would make up people for you 
+"	0	1	1
+" and she was nice and and and if just be nice of her and give more work and go home where dance instead of sleeping around just outside m know know she would she would she would like good grades for you 
+"	1	1	1
+" and julia was nice and because and if really be nice around her and do good yourself and go home and study instead of going no straight away m ye know she would she would she good make big grades for you 
+"	1	1	1
+" oh that was nice and yes and might you be nice to try and do good work and not get a study instead of going wild running outside m you know she would she would she would class good lives for you 
+"	1	1	1
+" and then some people are skip to anything so you have to jump over one and what um and if it be over two if somebody had me if really is you five people playing and they have it rock one or three then five the rocks inaudible just jump up to six 
+"	1	1	1
+" by then some guys just push to one so you have me jump over one and if um think if it be over two if one had the were you if about five people playing when you have it rock one two three four five the rocks inaudible you shoot up to six 
+"	1	1	1
+" and then some people just skip over one so two need to jump over one and if no and if it be over two if somebody starts the if you if about five people left and they have gone on one two three four five the most inaudible you jump eight to six 
+"	1	1	1
+" because then some people must skip to one so but have an jump over one and if um and if it be over two well somebody had the if you if about five people can and they have made for one two one four five the rocks so you jump up to six 
+"	1	1	1
+" and then enough people just skip to one so you have to jump into one and if um but if it be over two if too is the if um but about five people playing and they have it rock one four three three five the rocks inaudible you jump up onto six 
+"	1	1	1
+" and then some would just skip to one so you have rich_person jump like one although if um and if it be over two if somebody had the just you if these five people do plus they have it rock one ten three twenty five it rocks inaudible you jump up to six 
+"	1	1	1
+" and then some people just skip to one so you have all walk at over and if um and if it be over two because somebody had the if you if about five people playing because they had it in one four three four five the rocks inaudible sometimes jump up to six 
+"	1	1	0
+" and only some people can skip to one so you have to take over six and if um and if it be over over if somebody makes the if you if about five started playing and they let it rock one two fours of five the rocks inaudible you shoot up to six 
+"	1	1	1
+" and then some people just skip to one so you are to jump with three only if um and can it be over six two somebody had the if you like about five people playing and just have it rock one two ten four five the rocks inaudible come jump up to six 
+"	1	1	1
+" only sometimes some people just skip to one and we have to jump over five and if um and if it be over two if somebody had person if you if in five people playing and they seen it as one two or four five the rocks inaudible would jump up to six 
+"	1	1	1
+" that then some people just skip from one so you have actually jump to one and well um and if it be over two if somebody had the have well um if that five people playing and they have it rock one two two four two the rocks inaudible you jump up to six 
+"	1	1	1
+" but then some kids just skip because one so you have to jump over one because if nobody and if it be over two what somebody had said says you if about five people playing and they have it out one two three four nine the rocks inaudible you jump up to six 
+"	1	1	1
+" and then some people would skip to one so you have or jump over one and do so and if it be over two does it had the if you if level five and playing and and watch it rock one two three four five the rocks inaudible you jump up to six 
+"	1	1	1
+" and then some somebody just jumped to one so some have to jump over one and if um and do it be over two if somebody had a in you if about five people playing and they have it in a two three four five and rocks cause you jump up to six 
+"	1	1	1
+" and if some people just skip to one once more start to jump over one and if um and have it be over two if somebody wants the so you if about five people playing so they have it information_technology one ring three four five the rocks if you jump up to six 
+"	1	1	1
+" and then they maybe just skip to one if you try to jump over next and if um and if you be this two if somebody had the most any if about five people playing and they have it rock this one three four five the rocks inaudible you jump up to six 
+"	1	1	1
+" and then some people now get to one so you have to jump over three and then um and if it be over two if somebody goes the if you if about five people went and they have each rock one two two four one the rocks inaudible you jump up under two 
+"	1	1	1
+" and then some people just skip across one sometimes people go to jump over one and if um and if it be over there if if had the if whatever if about five people rock and they have it rock three two three three out the rocks inaudible you jump up to six 
+"	1	1	1
+" and then some can just skip to one so they have to jump each one and if um and if it be over two if somebody had the if you if about five people jumped and they have it rock one eight seven four four the word inaudible will jump with the six 
+"	1	1	1
+" and then some people can skip to one so some have to jump over forty and if um and if it be over two if somebody had the if anything if about five people playing and they have it over sixty two twenty four six five rocks inaudible you get up to that 
+"	1	1	1
+" and then some people really skip to one or you have to drop over one and if um and says it be over two if she had the if you what about eight people playing and they have gone are one two three four five the rocks inaudible you inaudible up over six 
+"	1	1	1
+" and then some people just skip ten steps so them have to jump over one and so um and if it be over two if somebody had the if you if about someone comes playing and they stop to rock one two three four five the rocks inaudible you jump down jump them 
+"	1	1	1
+" now do my mother tell her come semen come back in from as you know it be all she in calm 
+"	0	1	1
+" but his real words tell me come back back in here then you know it be all happy and kind 
+"	0	1	1
+" waiting until the day i be over to them  
+"	0	1	1
+" cause to the day i be over his church  
+"	0	1	1
+" well another person be damned here to remind them is who hes it or not oregon ask everybody put in their foot 
+"	1	1	0
+" and just oh and um hea and kind of guy that you was like he if he come home from work he like he like to see one girlfriend in the car or he be into this way of talking to talk boy while he aint there 
+"	1	1	1
+" may she get mad cause might they be a lot less children in the hall i ask and do yer knowim 
+"	0	1	0
+" and she get huffy cause if you be other lot of children leave our room she tells us do they knows 
+"	0	1	1
+" and and get mad cause if the be a thing of children running church hall she ask who do we knowbout 
+"	1	1	1
+" and rose heard him saying if it be a batch of people in the garden she hates us do we knownot 
+"	0	1	0
+" and she get in cause if it be a mess her child at the hall she make us let we countem 
+"	0	1	1
+" and she finds no cause if it be a handful of children inch my world they ask us say you knowem 
+"	0	1	1
+" and then said mad cause that you wil be lot of children in the hallway you ask the do we knowem 
+"	0	1	0
+" ben soon felt mad cause if it be seen glimpse of them from the hall you ask ask do we knowem 
+"	0	1	0
+" and people get mad cause what there be her crowd of children in the hall she ask us united_states we anus 
+"	1	1	1
+" and she means mad when if it be a gang of children by city hall only wonder us do bash findem 
+"	0	1	1
+" when he get mad and he come be a lot of us in the hall she ask us do we wantman 
+"	0	1	0
+" well also usually be with absalon jack and jasmine laneka and ai ing him as um angela upstairs at first this little one emily 
+"	1	1	1
+" no all of us speak english except even when you is like we or we take lessons in french we be ill call each kid names and stuff in spanish no other like which 
+"	0	1	1
+" no all all which take english except for me you know like today if we take spanish mate theory we be well remember each other names and stuff in portuguese or something else spanish 
+"	0	1	1
+" anyway many of us speak english especially for when demur know like we if we take computers in school we be wee teach each other names and stuff with spanish but some like russian 
+"	0	1	1
+" no all we ourselves speak those except those when you said like we if we take spanish and school return be theyll have each other names and everything in spanish than something like that 
+"	0	1	1
+" maybe all of ours speak english or maybe when you mean like we if we take spanish in english we be inch someonell call our other names and say in spanish or stuff like that 
+"	0	1	1
+" no some of us speak english except for when please know just us if we take latin in school still be school book each other names and stuff with spanish but something like these 
+"	0	1	1
+" no all of they take english except maybe when will know like we or we take spanish in public we be wed call out new names and call in spanish or something like that 
+"	0	1	0
+" no all of us speak english except spoken occasionally you know by anybody and we learned spanish in college we be wholl call each the names and stuff each spanish or something with that 
+"	1	1	1
+" no watch over me speak english just for when you know like we if we come down high school we be well call each place names for stuff in other or something like dat 
+"	0	1	1
+" there all of us speak english except here when never know and we because we ask them in school we be well call ourselves other names and stuff in spanish name_calling anything like that 
+"	0	1	1
+" no all of us speak english except for when you think like we if families go social and public we be wholl call each our names and talk in spanish or something material this 
+"	1	1	1
+" anyway all of us speak english except for when you see like us if we take spanish in chinese we be itll call all ourselves names that stuff in spanish or spanish at inch 
+"	0	1	1
+" no all of us is english except for girl you know like we if we take spanish to school we be shes call yourself another names some stuff in spanish or something else then 
+"	0	1	1
+" personally some of these take english except for when you know we we if others take spanish in school we be yll call each other accompanied by stuff in icelandic or something like that 
+"	0	1	1
+" stay inch any group that be in  
+"	0	1	1
+" not and this group iodine be expecting  
+"	0	1	0
+" here the um my manager ask i be with they dont work on our premises 
+"	0	1	0
+" though her usual strange associates that i be assured they dont live in my street 
+"	0	1	0
+" well you know i ask you sometimes be around friends they know  
+"	0	1	1
+" make me think how do you know be around people you people  
+"	0	1	0
+" all you know i like to know be around him please think  
+"	0	1	1
+" we know with my family have my house my fam house the house that the husband was in with that be his mother and her one sister if that 
+"	0	1	0
+" but idiot as total family have my house my fam the stuff only populate family live right with that be my mother and dad but grandmother and brothers 
+"	0	1	1
+" you too and my family have any house my fam the house that their inch live right with that be where the little grandmother and sister only brothers 
+"	0	1	1
+" something stupid had one family have my house i fam my house that my family live now with mother be one mother like grandmother and friends and brothers 
+"	0	1	1
+" you know all my life have me house my fam long house that every family reside in now wanna be my mother sister grandmother and sister and mom 
+"	0	1	1
+" just know have my family have my house my fam the house our my family loves still please be my mama and grandmother and brother then grandmother 
+"	0	1	0
+" was a whole way for fun all the summer be after school you win we play 
+"	0	1	1
+" pick a whole of some child killing the time be after school you know you would 
+"	0	1	1
+" had a crazy bunch of kids all the time be after it you know got started 
+"	0	1	1
+" was a whole bunch of others had the right be after after and win we play 
+"	0	1	1
+" was our whole generation of kids and the kids be after everything they know know play 
+"	0	1	1
+" is it be that five people and uh they come up to to you guy and see maybe get his card at want calling red see 
+"	0	1	1
+" you see all all marbles be with that closet  
+"	0	1	1
+" be know had the marbles be in my vault  
+"	0	1	1
+" be know had the marbles be in my vault  
+"	0	1	1
+" and like maybe be crazy but oh you know doing stuff around the yard 
+"	0	1	1
+" come guess that ye may come and just ride with the boys that be with us 
+"	0	1	1
+" i wondered if dad did semen and let hang off the boys then be with us 
+"	0	1	1
+" i worry if he ever come and bent all for the boys that be is everyone 
+"	0	1	1
+" we thought if he did come and and hang with their guys but be united_states us 
+"	0	1	1
+" but they didnby know cause no yeah thats right it helps you aid them promise to always be kind and loved to give uh you know we had these clubs you know gangs we used to go uptown and fight i dont know everything you know yet none of those things you know 
+"	1	1	1
+" maybe they didnt know cause uh yeah thats right it helps you and i remember to always be grateful i used to give uh to know i had coffee clubs everyone know gangs we used to go uptown and fight i dont know do you know any one of know things they know 
+"	1	1	1
+" he would shoot the boys and billy would ride past and o other fellad be on which rope and would all be off 
+"	0	1	1
+" he would shoot the boys and billy would ride past and o other fellad be on which rope and would all be off 
+"	0	1	1
+" so then the high interest in the student is in the book because some are the experts can sit the line and run the whole book through you and everything else and it be said as i dont know it 
+"	1	1	0
+" and then the high interest in his student is in the work while some of the teachers just sit in there to study your whole book and you and somebody else whether it be such as i dont know what 
+"	0	1	0
+" and then our high interest in the literature is in the school because some of the teachers can come in there and preach the big book for you and everything anyway and it be true as i wouldnt say what 
+"	0	1	1
+" and then the high interest because the student is almost studying work because some of the teachers can sit in there and show the whole book onto him and everything happens and it be said as i shant know what 
+"	1	1	1
+" and then the high interest in the scriptures is in the schools and some of these teachers would sit in there and preach the christian world to you with everything else and it be good for i iodine know what 
+"	0	1	1
+" and then the major priest in the student community protecting the book because some of the missionaries really sit in there and preach the whole book to you and everything else because it be appreciated as i dont forget what 
+"	1	1	1
+" they take kate out horseback riding things that are ever done before and just to see the expression on his face and the other things around her what happy they be when i do go find me so very good 
+"	1	1	1
+" and take him into horseback riding things things he ever done before and just now see the expression on your face and the young kids around there how happy they be when everyone choose these why me feel very special 
+"	0	1	1
+" i take him out horseback riding things when he had never himself and just it see the expression on his face but the other things around there how beautiful they be when guys say these make someone feel very good 
+"	0	1	1
+" i take him out various meets things sometimes he never done before earlier just to see the expression beneath his picture and seven other kids around there how happy we be when i do these make me get pretty good 
+"	0	1	1
+" you get him out horseback riding things when he is done before usually just to see the smile on expression face and the young kids down there so happy they be when i do these make me feel very good 
+"	0	1	1
+" i take will out horseback stretches things that he never done before i start to see the expression on his face while face other things around there making happy guys be when i do these make me seem very good 
+"	1	1	1
+" wanna take lucas out horseback riding things who he never done before really just wanna see the place that every face and the other couples playing other how happy they be when i do these make me feel very good 
+"	1	1	1
+" god take you horseback horseback riding things that he never done before and just to see the look on our faces and the other kids around who child happy they be when i play these and me feel very good 
+"	1	1	1
+" i take him out on today learning that he never done well and just to watch the expression on the face but the other kids round there how about they be when i do these make me sometimes very good 
+"	0	1	1
+" so take he out horseback riding things that he never done before mostly just to see the expression on his face and the other farmers around there how happy there be while they do these and jack very very happy 
+"	1	1	1
+" i try him out horseback riding things that he never done before and just so see the expression across his face and the other bodies around there watching happy people be after happy do they find me this very good 
+"	1	1	1
+" i bring parker down horseback racing stuff that he never done before and just watching see the smile on his face and the other kids around there how active they be when i do these make me bash very alive 
+"	0	1	1
+" children take him out horseback riding things that he never done before how just they have the smirk on his faces and the other kids matt how happy they be when i do these make nate feel so good 
+"	1	1	1
+" look it information_technology just a bunch bad guys get on first and choose sides and then h g guys be the bad guys and fucking bad guys you kn folks turn away and we go afterem 
+"	1	1	1
+" no it just just this bunch of guys get broke and and choose sides and then h the some good good boys go be the bad guys you figure they pull away and we go toem 
+"	0	1	0
+" no not just just angstrom bunch of kids get hurt and and choose sides and tell h the man be the good guys and them bad people go see they get away and we go afterem 
+"	0	1	1
+" no it does just a bunch of guy get together really you choose sides and everyone h j some be the good guys the new officers you kn they drive away and i go afterem 
+"	1	1	1
+" no it thought let a bunch young guys get together and and choose somebody and then h the boys be the good guys without the bad guys you kn they get away just i go getem 
+"	0	1	1
+" no it just just a feeling my guys get on and choose choose sides and then h aw some be the best guys and the bad guys you kn just get together right we call afterit 
+"	1	1	1
+" well just just just those couple of officers get over and and side sides and then h the some be the good guys and the bad men you kn they get away and we fucking killem 
+"	0	1	1
+" no it just as a bunch of guys get together anyway and choose sides then a g e some be the bad guys and other bad guys you fat man get on and we go afterem 
+"	1	1	1
+" no just just just a bunch some soldiers being together before and choose sides and then h let some be the good bad the bad guys like kn they run away and we race afterem 
+"	0	1	1
+" no it just just a bunch black guys or a guys choose sides there then watch the crew be all good guys and guy bad guys you kn they shift away and we go afterem 
+"	0	1	1
+" no it will just a handful of guys get together and i choose from where the h the some be the good guys and the big guys you get all get started and we take afterem 
+"	1	1	1
+" no you just just a bunch of you all together and just choose there just like h the men be the good guys and the dark guys you kn away they get us and we go afterem 
+"	1	1	1
+" uh well well how no be well it you will take as type of role that one might play anytime 
+"	0	1	0
+" uh well from tonight you be at it you could angstrom if fun game which you could play well 
+"	0	1	0
+" yeah well like me you be well who is could this damn type game game whereby you would play anytime 
+"	0	1	0
+" that be when the person comes to ten real number say one two three four red light and turn around and somebody gotta stop at the red light where while hem turned around you can run to the way up the real one would reach it reach up to the same light press the new red light 
+"	1	1	0
+" that be all the riders counted to ten real fast say one two and maybe red light to turn around all they gotta stop at the red light and while hes turned around we can run all the way up you first one to reach it reach up to say red light is the new red light 
+"	1	1	0
+" anybody here opposed me make anybody ask all these happy people down in alabama they would just leave be that i know 
+"	0	1	0
+" anybody possibly knew you because you know all the happy families down in alabama they would just leave be if you die 
+"	0	1	0
+" there be uh two ofem go out school too and uh that i usually hang with bent i dona have i dont need uh aint have had need of friends but um general i hang with like two or three p people in school you know we go out a lot together 
+"	1	1	1
+" we be uh two ofn go to school before and uh that i usually hang with uh i dont like i dont have and dint have a lot of friends but um he general i hang with uh two or three friends people two particular you know we hang out a while together 
+"	1	1	1
+" merely of point of trouble with it is a negro went into a house sos got be on three ps for qs you see 
+"	0	1	0
+" but by course small thing with it is a negro one at a job mans got be on as ps and min you see 
+"	0	1	1
+" think of it the thing is this is a angstrom moving into ain neighborhood noain got be on his pstyle and qhead you see 
+"	0	1	1
+" but of course some parts of it are young negro moving travel a neighborhood hebout really be on ye pa but js you see 
+"	0	1	1
+" but of course not right like it was one negro walks into a neighborhood vicinity gonna be on his ps and beatem you see 
+"	0	1	1
+" but thereof course the fact of it is any neighbor moving into your neighborhood somethins got be on his backs on qhe never see 
+"	0	1	1
+" so of course a thing of this is a negro came onto our suburb jays got be on his pan and qs phosphorus did 
+"	0	1	1
+" but of no damn thing that it is the negro goin into a neighborhood hell got be the your ps and as you got 
+"	0	1	1
+" ohio yeah im really close friend ben always think to keep him interested in different activities that we be having 
+"	0	1	1
+" oh yea im so terrible with like i like i get people see in other ways what we be having 
+"	0	1	1
+" oh shit andm really close stopping_point like i like to get myself involved no different way that i be through 
+"	0	1	1
+" oh my im really great with like iodine prefer people be people involved in special events that we be having 
+"	0	1	1
+" oh my im really great with like iodine prefer people be people involved in special events that we be having 
+"	0	1	1
+" and im already close on like i like to get get involved for private activities which we be having 
+"	0	1	1
+" oh yeah in real close too you i like even get people involved to stupid discussions that we be having 
+"	0	1	1
+" oh really iam really impressed with him i usually never get more involved in different conversations that we be having 
+"	0	1	1
+" but yeah ill really his more like i like to get one there for different activities that we be have 
+"	0	1	1
+" bash people like before you go see a different medical school does it make a heart telling you from all meet the other like yeah sometimes they be like sick stupid traitor you say 
+"	1	1	1
+" do yeah like right if anybody go to a different high school does there make a difference if you studied here versus some other like yeah can i be like you some traitor you know 
+"	0	1	0
+" these people er can you go into a different high does it make a difference if you from one versus the other like like could they be different you a genius you stupid 
+"	0	1	1
+" do things like if you go to angstrom us government high does it get your difference any different from one versus the other like or sometimes they be like of a traitor you know 
+"	1	1	1
+" some people like if you go like some different private school might it make a difference if i choose one versus that other ah yeah will they be like you a traitor you know 
+"	0	1	0
+" do this like if you go to a different high school not matter information_technology huge difference if you from yourself versus the other like yeah will things be wrong you love traitor you know 
+"	1	1	1
+" do people like if you belonged to a different public school does it make brand difference all coming from humans versus from others like yeah sometimes humans be like you a traitor ya know 
+"	1	1	1
+" the people like if you go on a market close up does it make a angstrom if you from yourself versus the other like yeah will they be like for a traitor you sing 
+"	0	1	1
+" do people like because you go to a different safe ground does it make the point difference they go one versus the world like yeah can they be like and a traitor you know 
+"	1	1	1
+" do believe like because i go to something different high school does it make good thing if you live one one the other like yeah because they be like you a being they know 
+"	1	1	1
+" young people yes if you came from a different high school thinks it make a difference if you get one than the other like maybe sometimes they be like you like traitor lets know 
+"	1	1	1
+" if people like if you are around no different high school does it leave some difference if you from one versus the other like yeah if ye be like you be junior you know 
+"	0	1	1
+" if people like if you are around no different high school does it leave some difference if you from one versus the other like yeah if ye be like you be junior you know 
+"	0	1	1
+" like to say among white people you sometimes be that other like ethiopian 
+"	0	1	1
+" right you coulddo be what oh ohio just a name but really you will like those while it is small 
+"	0	1	0
+" right the dont be like hell its under fifty dollar just the my make like one feet up is small 
+"	0	1	0
+" right it donta be like oh its just a mess even once i take this first bite it like small 
+"	0	1	0
+" right who wasnt be bad oh ites just a car but really you getting some and it looked small 
+"	0	1	0
+" and we might know we could go outside and basketball basketball in front but you cant do that cause lots of the time its a bunch of dudes sitting around a couple of a lot of corners and and s they also be able to tell you s if they see things with a fresh pair of shoes or something like such 
+"	1	1	1
+" and we you know we will go downtown and play golf in dc obviously you wouldnt do that cause cause of the time its a lot of dudes lurking around a lot of every variety of corners and and besides they also be liable to rob you s if they see you with a fresh pair of shoes or something like that 
+"	1	1	1
+" and we you we could go outside and dream basketball in dc but you cant do that cause most of the year its a lot of dudes sitting around lot of a lot of corners and and s they also be or ll get rob s if they hurt you with a heavy pair of shoes or something similar that 
+"	1	1	1
+" and just tried a we could play outside and play basketball in bars but you cant do that cause most of the city its a lot of dudes sitting around a lots of a lot of corners and and s they also be able to rob you s who they see over with a fresh pair oregon shoes or something like that 
+"	1	1	1
+" recently on some most of the time we dont go because yamile mom and yamile be the only girls who go because they see no money to get into and they dont wanna waste a lot of money under all of us to make that dallas or did things like that 
+"	1	1	1
+" but some some most probably time time we dont know because yamile mom and yamile be the only people who go because us got the money to get down say they hadnt wanna waste a word of money for all of us to go down dallas or philadelphia something with that 
+"	1	1	1
+" plus on some parts of the time bash dont go around yamile mom and yamile be the only one that go unless they got the money to get down and they donwanna wanna bet a lot of money on all four us to go down dallas or philadelphia something like them 
+"	1	1	1
+" but on some most of those time we donn go through yamile parents and sister be the only one who go because they got the lot gonna get down and folks dont wanna save a lot of money for all of us to go down dallas or philadelphia something like that 
+"	1	1	1
+" down on these most of which money we dont go because emily bobby and bobby be the only one who go because they want most money to get down and they dont wanna waste a lot of money for all of us to go down dallas or little thing like that 
+"	1	1	1
+" but on some most of the time we doesnt go because yamile mom ma mama be the only one who comes because they got the money of get down and they arew wanna do a lot of money for all the us that go down there or philadelphia something like that 
+"	1	1	1
+" but on others most all the time we donm see because bill hank and yamile be the only one one go cause they got the money to get down and they dont wanna waste a lot of money for two of us to go down dallas or philadelphia street like that 
+"	1	1	1
+" but on mars most of the time that dont believe in yamile mom and yamile be the only one who go go they got the money to do done and they donnot wanna waste their penny of money for all of us to go down dallas or philadelphia something like that 
+"	1	1	1
+" but on some most of the time we didnt go because yamile eddie and yamile be the only ones who can because they got get money to get down and they dont wanna waste one dime of money for all of life or bring down dallas or philadelphia something like that 
+"	1	1	1
+" not on some sections of the time we dont go because yamile sister and sister be the only kids who go but they got the money to get down down they dont wanna waste a lot less profit for all of us to go down dallas or say something like that 
+"	1	1	1
+" go on saturday most of the time we dont go because don mom and yamile be the only one who go because they got the money they get down and they dont bash win a lot and that for all of us who go down dallas to philadelphia street like that 
+"	1	1	1
+" but on some most of the time we dont either because yamile mom and yamile be my same family who is because they got the money to get there but they dont wanna waste a waste of effort for all of us to go down dallas or shit all like that 
+"	1	1	1
+" but on some most of the time we dont go because yamile mom and yamile be the less one by stops because they needed the money to sponsor her since they dont wanna waste whole lot angstrom money for all of us that go down dallas or philadelphia street like that 
+"	1	1	1
+" but still some most of the time we wont go for yamile mom and yamile be the only one else go because they got the idea to get down and they doesnt wanna waste a ton of money for money about us to go down dallas or philadelphia with such that 
+"	1	1	1
+" but on some most of the time and donll go into yamile mom and yamile be the same children who go because they got the money to get down but they couldnt wanna waste a lot of money for all of us to go down dallas great philadelphia valley philadelphia that 
+"	1	1	1
+" now because some most of the holidays we dont go across yamile mom or yamile be the only one who go because they lack the money to get down where they dont wanna have a lot of money for all of it to go down dallas or philadelphia something like there 
+"	1	1	1
+" cause we arent like last time from practice i had to catch the train home that i had to hurry home then i just look my back eyes see if nobody be around either 
+"	0	1	0
+" cause i bash lie about time of practice i refused to take that train on and i had to walk outside and i just watched my back just see if you be around me 
+"	0	1	0
+" cause i doni like one time from practice father had to take the girl home and i had his come home i never only watched my back and see watch nobody be around me 
+"	0	1	0
+" one i dont recall one time from practice he had someone take its train home and he had to walk home and he always watched my back and see if others be around them 
+"	0	1	0
+" cause i didnt mean one time from practice she had a return the train too and we had to walk home with he just watched your back and see if anyone be around me 
+"	0	1	0
+" cause i wasnt like every minute from practice i went to take the train home and we had to go somewhere and i just watched for footsteps and see to nobody be around me 
+"	0	1	0
+" cause they doncause mind one time from practice coach used to take the train home and i have to walk home and i have watched that back and wondered if nobody be seen us 
+"	0	1	1
+" well i dont say one time from there i saw to take the train home before i had to walk home and i just wiped our back and wondered if nobody be around too 
+"	0	1	0
+" cause i wouldnt like one time from practice i ran to on the train home then i had one walk home but i just made myself back and thought if nobody be around or 
+"	0	1	1
+" cause i aint like one time a practice i did them take one train out and i had me walk back and they just watched my back and see if nobody be around us 
+"	0	1	1
+" he be dead when they bring her up before him  
+"	0	1	1
+" well be real mad he donll remember  
+"	0	1	1
+" so be funny even evening he from his world that who they get im not gonna do a so i want better for myself 
+"	0	1	0
+" they be nice though though he had an age vicinity she he know im not gonna do something because i want better for them 
+"	0	1	1
+" i be like know it he from that neighborhood thing we they made mem not doing see nothing because god iodine better for myself 
+"	0	1	1
+" yeah just some kids know one neighborhood like i be had a neighborhood in and im taken from everybody too mmm 
+"	0	1	1
+" yeah but some people are one neighborhood like will you be out another neighborhood in probably vm right with you mm uh 
+"	0	1	0
+" not like some are from a neighborhood iodine i be from one neighborhood beyond and ire friends with you see hm 
+"	0	1	1
+" no but some people from her country like she be from vicinity house in and were single with one mm hm 
+"	0	1	1
+" yeah but some people from any neighborhood could i be at a suburb in and whatlike sitting amongst themselves millimeter hm 
+"	0	1	1
+" just like i be doing thats not to happen between stadiums you just like if it happen outside of sports itm different 
+"	0	1	1
+" or information_technology be like if hes a group of young kids walking alone like howll the example if a group includes black guys walking along our street its all white people 
+"	1	1	1
+" or it be it maybe thats a group with black teens walking dow way ill give example if by delegation of black kids walking down eighth street its real street people 
+"	1	1	1
+" besides i did always always just be within your neighborhoods  
+"	0	1	1
+" i i mean always like just be in these inch  
+"	0	1	1
+" like uh just always like they be in old neighborhoods  
+"	0	1	1
+" uh it just did like just be in the areas  
+"	0	1	1
+" iodine mean i never had intent just be in the sun but really mean a lot of people who who pass here ever eventually everyday want to day like they dont actually just like no intent on just flying somewhere d doing or they had no business 
+"	1	1	1
+" i mean i really had intent to just be in the streets but i mean a lot like the like who pass away like like die day to day they really dond have just like were intent on just being somewhere d doing something they had no interest 
+"	1	1	1
+" i mean iodine never had intent to just be in those streets but i mean another group of people who who pass away ever like everyday day every day they they dont have to left no intent on them being somewhere d doing something that had to business 
+"	1	1	1
+" i mean i never have intent to long be in the streets but i mean a lot of people who who shift away ever around everyday day to weeks they they donmt have just anyone no business on just being somewhere a day anyway they had no business 
+"	1	1	1
+" i mean i always held purpose to just be in the box but instead mean a universe of souls who who pass away ever like everyday day to day they they dont have just souls just intent on just being somewhere and doing something they make no business 
+"	1	1	1
+" i mean i never had intent to just be in the streets but here mean all lot of people who who experience the ever passing always day to day they they dont know just like no intent on just leaving somewhere d doing something they really no business 
+"	1	1	1
+" i mean never stated intent to just be in inch business but i mean a lot of people who just pass away ever like everyday day to day they they donmake have like like no intent on being somewhere d doing something i had a business 
+"	1	1	1
+" i and i never had intent there just be in the street but i mean a lot of the who who pass away ever like everyday day after day they they cant have anything like no plans on just being somewhere else about something she had no business 
+"	1	1	1
+" i thought i always had intent to just be in these streets there i mean a angstrom of people who who pass away ever like everyday day to tonight they they dont have just happened no intent on just disappearing somewhere d make something they did no before 
+"	1	1	1
+" i mean kinda never had intent to just be in the streets but i know a lot batch people who who pass away ever like everyday day to day they who cant exist just like no home and just being somewhere d doing thing you take no business 
+"	1	1	1
+" i mean i never had intent to ever be in the service but i mean a lot of everybody people who pass away ever like everyday day to tomorrow they they dont look any like no intent on even being around d doing something they mean as business 
+"	1	1	1
+" i mean i never had intent it just be in their village in i mean a lot of people who world_health_organization pass away sometimes so everyday day to day they they dont really just like or intent on just living somewhere here doing something they had no business 
+"	1	1	1
+" he mean i once had intent she really be in the streets but i mean a bunch of people who what pass away ever like like everyday day to day yes they dont have just like no money on just being somewhere d like something one had no business 
+"	1	1	1
+" i suppose i never had intent to really be in those streets but myself mean a lot of people go the pass away ever like lost day day to day sometimes they donsay have just like no intent on just going somewhere d doing something they had no business 
+"	1	1	1
+" i mean i never are intent and just be in the streets no i mean to lot of people just who pass away ever like everyday seem day day they they dont have just like no effect on just heading somewhere but doing something they had no intention 
+"	1	1	1
+" to mean i never had intent to just be in the city but i mean a lot that people who who pass away ever like everyday day to day they bash willve say their like no intent on they stay somewhere d doing something they had no business 
+"	1	1	1
+" i mean i just had wanted to just be in the streets but i mean that lot of people there who pass away a like everyday day every day they they dont rich_person just kids no opinion on just being somewhere d doing something we own no business 
+"	1	1	1
+" i mean to never wanted intent just be off the streets but people mean a lot of not who who pass away lives like everyday day to tomorrow years they dont have just just no intent on just being somewhere d doing but they had no business 
+"	1	1	1
+" i mean i never had intent to just be in the streets but we think you lot of people who who pass away be like ever day to day they they donone have just like no no on just being d doing something but had no imagination 
+"	1	1	0
+" i mean i never had intent to just be in the streets but we think you lot of people who who pass away be like ever day to day they they donone have just like no no on just being d doing something but had no imagination 
+"	1	1	0
+" i confess i never had intent to really be in the streets but i go for lot of people who who pass by ever like sometimes come to people they they dont have just people no intent on on being somewhere d doing something they had in business 
+"	1	1	1
+" i mean i never had intent to just be in an army do i mean like lot of people who people pass away ever like everyday tomorrow after day but they dont just just like no intent on just just somewhere d doing something they had to business 
+"	1	1	1
+" we mean i never had plans to just be in the marines but i a lot of men who a pass away ever like everyday day to me they they donpt have just like no intent on just being somewhere d somewhere doing that they get no business 
+"	1	1	1
+" i know she kinda had intent on just be in da streets but i mean a majority of people who who pass away ever like everyday day to day they they cant live just like a future on just being somewhere d make something they had no business 
+"	1	1	1
+" i suppose i never made intent to just be walk their streets but i bet a lot are people who who pass away ever like everyday day to day they they dont have just like college classes and just being somewhere d doing something they did no business 
+"	1	1	1
+" i mean i never had intent to just be in dangerous streets but i see a lot of people who who pass away suddenly like everyday night over day suddenly they dont have just like no intent on just being somewhere else into something you are no business 
+"	1	1	1
+" but really it just be nothing the stuff like weird stuff that the music music he teaches teach itm only itt that weird 
+"	1	1	1
+" but like it be like the story too the tune changes the music because everything teaches but its nothing justs just information_technology 
+"	1	1	1
+" well then again my mean like we like be laughing  
+"	0	1	1
+" the kids like nice friends like they just be laughing  
+"	0	1	1
+" but i stay on facetime for that afterward we be to each other boo and boo that 
+"	0	1	1
+" he always stay on facetime because directly after we be called each other boo and all else 
+"	0	1	1
+" a thirty angstrom three person outside maryland be like uh ire from washington area 
+"	0	1	0
+" a d rex would from maryland be like no aham from some beach  
+"	0	1	0
+" a shit list person from maryland be blunt shit iam iodine this area 
+"	0	1	0
+" one eighth grade person from maryland be like no ive kinda texas area 
+"	0	1	0
+" just angstrom circle around the the family members were with his house like a be have the hoods and it was it was their bunch of instigating 
+"	0	1	0
+" yet a batch of the look band members were from the gangs like they be in our us and it was it was or bit easier instigating 
+"	0	1	1
+" because that lot of fights this member members were without the mob mostly they be with the gangs and it meant group was a kind of instigating 
+"	0	1	1
+" because the lot of drugs the band go live with gang party like they be with the hoods like it are involved caused a bit of instigating 
+"	0	1	0
+" because a lot of the the more members be with some police than they be to the hood before everything happened it was a problem of instigating 
+"	0	1	1
+" because a lot of the the more members be with some police than they be to the hood before everything happened it was a problem of instigating 
+"	0	1	1
+" because a couple of the the band kids were with the gangs like was be in some people maybe it was information_technology went whole lot of different 
+"	0	1	1
+" zan one day she be like i said right i couldnt possibly go to my office and phone em for texts like whom would i write to 
+"	0	1	1
+" zan one day she be fine dad like everything but didnt even go to the home and ask someone for shit like who should i talk about 
+"	0	1	1
+" who the might she be like i was like iodine couldnta even go by my friends and see them and texts like who should me talk ta 
+"	0	1	0
+" it said day she be since i was learning i shouldnt even evening off my friends and give them guys something like who should i talk about 
+"	0	1	0
+" zan is will she be like i was hoping if couldnf be go to my aunt friend ask there for advice like who should do talk with 
+"	0	1	0
+" zan is will she be like i was hoping if couldnf be go to my aunt friend ask there for advice like who should do talk with 
+"	0	1	0
+" zan one day she be if she say like i couldnn even get to my therapist and ask ask for advice like who does you worry about 
+"	0	1	0
+" zan one would she be until everything was like i couldnn even go with my friends and ask gretchen out advice like like will she lie to 
+"	1	1	0
+" zan one day she be unless she was normal who couldnt even talk to their therapist and ask them for forgiveness like who should i be iodine 
+"	1	1	1
+" zan one day she be unless she was normal who couldnt even talk to their therapist and ask them for forgiveness like who should i be iodine 
+"	1	1	1
+" zan some day maybe be like i was like i wouldnt even sit among my teachers but ask them for advice like who will they go to 
+"	1	1	1
+" lily volition forever be your something  
+"	0	1	1
+" but just all i just iodine a it sure didnt still like that in ways like she myself always wanted to just be what i wanna get like im nobody tell me what to do 
+"	1	1	0
+" i just well just just be enough i always im much like that in ways like i i always have to iodine do what people wanna do then im everyone teaching me what to do 
+"	1	1	0
+" i just all i just be and i you ur still like that in bed like i just always wanted everything do what i wanna do cipher therell nobody tell me everything to do 
+"	1	1	1
+" again whatever it be has me feeling good  
+"	0	1	0
+" yeah they told his boys be ready to son maine  
+"	1	1	0
+" then helium the one that be holds it top when they all take off and still panic 
+"	1	1	1
+" hopefully hes the someone that be with them them after they start slacking off and inaudible inaudible 
+"	1	1	1
+"elysa be screening his early drawings.
+"	0	1	1
+"elysa be showing you some stuff.
+"	0	1	1
+"elysa be showing them your work
+"	0	1	1
+"next iodine will be saying oh, shit.
+"	0	1	0
+"so gonna just be doing Ohio shit.
+"	1	1	1
+"iodine must be liking your emotions within a hip hop song.
+"	0	1	0
+"i may be doing the beat in angstrom hip hop song.
+"	1	1	0
+"i just be liking one beat on american hip hop culture.
+"	0	1	1
+"they might be liking it beat like a hip hop song
+"	1	1	1
+"yes, like like then i be shooting some videos.
+"	1	1	1
+"these mamas be letting the kid little dance that stuff.
+"	1	1	1
