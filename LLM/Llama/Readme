@@ -1,0 +1,4 @@
+1. Open the corresponding .ipynb file in an editor that supports notebooks, our testing was done in PyCharm 2023.2. Use of a locally downloaded Llama model using this setup will require a Huggingface key to be set through your editor's terminal.
+2. Find the strings with text encased in brackets and replace their contents with the corresponding file path/file name.
+3. Run the cells in order. Cells can be queued to run automatically once the previous cell finishes executing.
+4. Once the model has finished running, print the classification_report with an array of True Labels as the first parameter and the Prediction Labels as the second parameter. If your model produced any erroneous outputs indicated with '*', add 'Erroneous' as a target_name before the existing two.

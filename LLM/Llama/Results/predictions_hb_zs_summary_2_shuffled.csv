@@ -1,0 +1,1001 @@
+Sentence,True_Label,Prediction,,,"Llama - Habitual Be (Zero Shot), Reduced Test set 2, K-Fold 6-10",,,,
+" cause is real nice give me one i can if know know their terminol like me a give off one of their sometimes i wanna hear they be like girl oh well know how they phrase sh phrase words 
+",1,0,,,,Precision,Recall,F1,Support
+" however there are places that gotta bash go and ir like well make sure you say this time make sure you wannaa you gotta be too cool or nobody are gonna judge you 
+",1,0,,,Label 0,0.38,0.89,0.53,200
+"So um and that's how it should be when you grow up.
+",0,0,,,Label 1,0.34,0.03,0.06,300
+" um but merely in the end of my college years they waited until it the yeah crazy fourth semester of my college year to basically be like wow but donll have the equivalent of amount of time to graduate 
+",1,0,,,Accuracy,,,0.38,500
+" or just oh and um heres the not with guy that you know like like if or came home from work he like he likes to see his girlfriend in the house or still be doing something instead of talking every one boy while he aint there 
+",1,0,,,Macro Avg.,0.24,0.31,0.2,500
+" hel have your little kids be out there for there few minutes 
+",1,0,,,Weighted Avg.,0.36,0.38,0.25,500
+" he just oh and you doina the kind of guy that you name him he if he comes down from work he like he like to see some girlfriend in the house like he be doing something instead people talking to another boy while male_child aint there 
+",1,0,,,,,,,
+" they we would dip stuff if you t you be okay for kids tryna to go they they just talking talk to but they were spitting that material after 
+",1,0,,,,,,,
+"I cannot- as much as I try sometimes not to burden her with my stuff I can't be around her Yup yup.
+",0,0,,,"Llama - Habitual Be (Zero Shot), Combined",,,,
+" however it are sides that i do go and im like well make sure somebody got this proper make say that dont wanna know be too vain and people love gonna judge you 
+",1,0,,,,Precision,Recall,F1,Support
+" but they didnha know cause uh yeah thatma right it helps you and i used really always be swinging i used to like uh they know we had these clubs you know gangs we used to go in and fight those dont know and bash know yes one s those things you know 
+",1,0,,,Label 0,0.55,0.88,0.67,568
+" and like i be honest maybe either we know throwing her off the material 
+",1,0,,,Label 1,0.21,0.04,0.07,430
+" cause they real well give me iodine i wil if you know their terminol give him mine gives me one of their nah he just think they be like girl out you get where they really sh phrase words 
+",1,0,,,Erroneous,0,0,0,2
+" nothing but me in the end of her college career they waited the on the yeah late spring semester before your senior year to basically be like yeah you dont have the number of amount on months to graduate 
+",1,0,,,Accuracy,,,0.52,1000
+" i mean like yerer gonna put it on jack hes been gonna fly sit and like be like on mars prime 
+",1,0,,,Macro Avg.,0.19,0.23,0.19,1000
+" like oh im going at my cousinm house we cousin monday morning oh his sister was real strict about us be out the night sharing people houses 
+",1,0,,,Weighted Avg.,0.4,0.52,0.41,1000
+"I didn't like to play sports but I- I like to be creative and draw and write.
+",0,0,,,,,,,
+"And the team had split in half and I remember the one coach who used to be with the team that I had stayed with he wasn't even part of my team anymore I didn't have any beef with him like he was on the sideline like encouraging me during this heat that I- that I- this competition cause it was so bad and he felt so bad for me.
+",0,0,,,,,,,
+" well those lights just be so throng or they have people standing in al hot near super high mirror 
+",1,0,,,,,,,
+"Tell 'em to pretend all the time cause eventually it's gonna be.
+",0,1,,,,,,,
+" split into really expensive brand new two bedroom with two possible choices but have my rent only be mid twenty first month 
+",1,0,,,,,,,
+"Like Jesicca would be a business partner to me.
+",0,0,,,,,,,
+" but it didnt know cause uh yeah thats because it helps you and i used to always be swinging from know you give uh what money we had these clubs you know baseball_club we used to go uptown and fight i dont remember why you know that one of those things you know 
+",1,0,,,,,,,
+"And  my uncle would be like my nigga turn on which ever you wanna see.
+",0,0,,,,,,,
+"But you know I mean i- it's- it- it was really no different to me you know what I'm saying growing up from my perspective in- and- and- and my you know uh things that I went through with it you know what I'm saying like I lived in Suitland and my grandmother lived in Southeast at the time we used to be over that jont every day.
+",0,0,,,,,,,
+" he just so and um hes the kinds of guy that you know like he if he come home from camp he know he like to see his wife in the house or he be or something instead of talking to that boy and so ainyo there 
+",1,0,,,,,,,
+"Mm that would be interesting for you to write about this in one of your reflections if it fits with one of the readings in- in kind of this idea of- Yeah.
+",0,0,,,,,,,
+"And uh that would then be my last choir.
+",0,0,,,,,,,
+" ah just oh and um hes all kind looking man that you know like he if i come home from something he like he like to see he girlfriend in your house or probably be doing something instead of talking to another boy while he ainin there 
+",1,0,,,,,,,
+"Your whole body needs to be in that thing.
+",0,0,,,,,,,
+" no wish but merely dont my god he will always thats why me say i thank god for miller there ella read her me story she be afraid indira like you need something just aks 
+",1,0,,,,,,,
+"I can't tell them about the museums and the- the other exhibits and things when I should be able to you know.
+",0,0,,,,,,,
+" and information_technology be like yo no i can if i know my resume could go that get him a new job although only realistically the type of money i make i need just pick up my boy right now and be no yes no 
+",1,0,,,,,,,
+"So he would try everything I mean you could just be like flat like a pancake and he would try to do everything to work with our  uh structural department I did reconstructions to get them back looking decent.
+",0,0,,,,,,,
+"And  we uh just wanna let y'all know like be safe around um the good touch bad touch that- all that.
+",0,0,,,,,,,
+" whole lot about times everyone be quiet said they shouldnt we tried that one you know they you know but at times it just sound dumb 
+",1,0,,,,,,,
+" i i they say go back past me and and be like im not really on the bus so i just just n wait at them car steps 
+",1,0,,,,,,,
+"I think it will be easier for you.
+",0,0,,,,,,,
+" please i have her gospel music song be like like in her world gospel work i have songs that just just we know like um oh james cant never think of his father halerkiah walker 
+",1,0,,,,,,,
+"And I used to be pressed for the- for- for him to go like that you know what I'm saying you going to get some squirrels today?
+",0,0,,,,,,,
+" no all five us speak english except for when demur know like before if we hear spanish in italian we be were teach you other names and stuff in spanish or italian beyond that 
+",1,0,,,,,,,
+" he just that and um charlieis the sort of guy that you know like he if he come off from california he like he like it take his girlfriend in the house or he be doing something instead of alternatively to another boy while he st dead 
+",1,0,,,,,,,
+" split a really nice brand twenty three box with two other items to charge it rent only be three twenty a morning 
+",1,0,,,,,,,
+"When you start with struggle you're always gonna be repeating it or thinking that struggle is your barometer for uh success so.
+",0,0,,,,,,,
+" youd see see crazy kids be out hunting for a few weeks 
+",1,0,,,,,,,
+" sometime i love my gospel music i be in like just another world my mean i iodine songs i she just wanna know like um oh i cant stop think like his papa halerkiah walker 
+",1,0,,,,,,,
+" a big like like reason why they f f they changed the foam plates is because hey we used to have tables right outside the cafeteria and be throwing like them off plastic trays and stuff 
+",1,0,,,,,,,
+" sometime i spend my gospel music i be in like in another world i only i have songs but just just i remember you so oh i cant never think of this friend halerkiah williams 
+",1,0,,,,,,,
+" like all kinds these united_states english only for when you know whenever we when kids take spanish in school we be well call each english hi and stuff in spanish or something after that 
+",1,0,,,,,,,
+"But as much as she did that Miss Wendel can say blame it and be good.
+",0,0,,,,,,,
+"Like that's- I never wanna be the reason for that tattoo.
+",0,0,,,,,,,
+"To help- To put- Be able to put- Cause you know when you're on -  survival mode you don't think what you're doing- anything you could do or say is wrong.
+",0,0,,,,,,,
+"It's like there's no purpose for you to be here if you don't have a purpose to wake up.
+",0,0,,,,,,,
+" no that is ours speak english except english when you read like we who we take spanish before school return be well call each other hi and stuff in spanish though nothing like that 
+",1,0,,,,,,,
+" cause they real well give on one i said if you like their terminol maine give me a give me that of some nah i just know the be like girl love you never like we phrase sh phrase song 
+",1,0,,,,,,,
+"So from two thousand eight to two thousand thirteen I moved from Forestville and I was living in Upper Marlboro briefly um cause I didn't wanna be anywhere near DC.
+",0,0,,,,,,,
+" nm long dead and i probably iodine through it cause i know my mom and i just be walking like up main street and well watch you going around 
+",1,0,,,,,,,
+" cause erstwhile we be together and s just somebody donta know and with dance our life your song 
+",1,0,,,,,,,
+" im like yeah and you probably thought past walk guess i asked for brother and i we be getting like up the street and mem see stuff going off 
+",1,0,,,,,,,
+" but they didnf come cause uh yeah thats right it is you when i used to iodine be swinging me used to give uh your know i had these clubs you know gangs we tried to go uptown and fight i dont know why you know just one of these things you know 
+",1,0,,,,,,,
+" however there are topographic_point that i could go and im gonna well make sure she remember something now pretty sure ya dont you know be too loud that people are gonna judge you 
+",1,0,,,,,,,
+" um but basically in the end of my college career they waited your god the yeah the week is over our senior year senior basically be like studying but dont have the number of amount twenty credits to graduate 
+",1,0,,,,,,,
+"And  I don't mean that to be racist I just mean that like you just- you see f- it's a different- it's a different group of people.
+",0,0,,,,,,,
+" well i known uh jason wouldns be messing along before main street and hed go back morning school 
+",1,0,,,,,,,
+"So when she finally said okay well- well she's supposed to be in Suitland but we- I really want her to come here oh I'll make it happen.
+",0,0,,,,,,,
+" ah but see in high end of my college career that waited until on the yeah the spring semester of my senior period to basically be like yeah it cancrazy have the number of bash of credits to graduate 
+",1,0,,,,,,,
+" or do m does you enj i i when the watch just clemon sometimes you just be in your own little zone a taking what just really rarely ever you get 
+",1,0,,,,,,,
+" the cafeteria also the reason why reason f they she keep the wooden shells is because like we used to have crap fights in the cafeteria and be throwing into them heavy plastic plates with stuff 
+",1,0,,,,,,,
+"You know I mean once you got old enough to be into go go it's like I don't know it was- it was just tight.
+",0,0,,,,,,,
+" youwill look the little kids be child cold for another few minutes 
+",1,0,,,,,,,
+" i sounded like illm to put it on amazon womens just just read yes just like be chilling on target basic 
+",1,0,,,,,,,
+" sometime you in my gospel music i be in in some another world i mean mean have songs that it just you know like ours and i canve never think of a name halerkiah walker 
+",1,0,,,,,,,
+" dude that would dip stuff at you if you be look at them tryna to say where they looked talking so about because they were spit that stuff out 
+",1,0,,,,,,,
+" always go to school come in home in the room all day remember things arent do things but be on the internet 
+",1,0,,,,,,,
+" but they didnt know cause uh yeah wheres why it helps us and i used to always be swinging i will not give uh you know just know these clubs you know gangs we used to go and not fight i dont know why you know know one of those things they know 
+",1,0,,,,,,,
+"We're hearing things about that so in my mind I'm supposed to be entrepreneur.
+",0,0,,,,,,,
+"And I remember writing that- um that I was sad to leave that class because I was just starting to get to know folks and that I knew that I wouldn't be coming back to that school in the fall.
+",0,0,,,,,,,
+" we know please but donno because god he will always hes why only say what thank god for everything i she told her me story she be like indira if you need something just aks 
+",1,0,,,,,,,
+" or know but we dont but god he will always thatre why i say i want god because you i just told her my story she be like call if you need something just aks 
+",1,0,,,,,,,
+"And um you know I grew up in the six- You know I came up when um the M- the March on Washington happened and we lived at Fifth and P. And I can remember my mother- When Martin was killed my mother was saying I just got to be there.
+",0,0,,,,,,,
+,0,0,,,,,,,
+" now understand hundreds of marbles be in the center 
+",1,0,,,,,,,
+"She didn't say what is this she knew what it was cause she had family here but she would be like every time I hear this I don't get it.
+",0,0,,,,,,,
+" however it are places those guys do go and im like well make it girls say brand proper make sure i dont you mind be out loud cause people are likely judge them 
+",1,0,,,,,,,
+"Like be a part of it.
+",0,0,,,,,,,
+"It's very unique so it's bittersweet in the fact that unfortunately as the city changes it's bringing in a lot of stuff that's good but it's- I- it's- it's- it's sad to think about i- if it continues at this rate if all the black people move out that's obviously sad that we won't be here at all if things continue.
+",0,0,,,,,,,
+" if you do you enj i i when the call you clemon inch just just be within your own little zone you like you ever really enjoy just your doing 
+",1,0,,,,,,,
+" for cafeteria like the reason why they f they they keep the foam plates is just like you used up have food thrown in this night and be throwing like them heavy trash trays and tray 
+",1,0,,,,,,,
+" he about he okay um hes no really that guy that you know like he if he come home from work he like he like to see his girlfriend in inch house if he be doing something instead of dating to another boy while there aint there 
+",1,0,,,,,,,
+"It wasn't like-  it wasn't controlling environments where a kid can really be a kid basically.
+",0,0,,,,,,,
+" this cafeteria like the reason why they why they they changed the foam plates is like literally the used of have food trucks outside that cafeteria and be throwing like them heavy plastic shirts and magazines 
+",1,0,,,,,,,
+" sometime i have my gospel music i be jesus like all my world i mean got shit that song please never know like um oh i can never think of his name halerkiah walker 
+",1,0,,,,,,,
+" no all over us like english and that when you know like we can we learn spanish for school we be well call each other letters and stuff in spanish or something about this 
+",1,0,,,,,,,
+"And at points where I you know battled with what it meant to be the little chubby dark skinned boy and wrestled with that and what that meant.
+",0,0,,,,,,,
+" and do that do you enj i i believe i watch you clemon sometimes get be off your inner fun zone okay truly you just really enjoy what you can 
+",1,0,,,,,,,
+" and when they hear it you be amazed to love as so 
+",1,0,,,,,,,
+"I don't have to be here I make more money in my own business.
+",0,0,,,,,,,
+"Now I don't need you cause I'm not gonna be vulnerable anymore.
+",0,0,,,,,,,
+"She'd be visually giddy.
+",0,0,,,,,,,
+" ah i that that there there you know some be saying to him lord is to i world the way she smells 
+",1,0,,,,,,,
+" he just oh he um hes the kind of kind that you might like he if he are home during work he like it like to follow his girlfriend in the house or he be doing something maybe of talking to another one another he aint there 
+",1,0,,,,,,,
+" well i normally be with absalon too and ana yes and me uh huh and jasmine jasmine upstairs and nina the blue fairy above 
+",1,0,,,,,,,
+" sometime i have real gospel music i be damned like inch another world i mean i have songs that just uh totally get me um she cant quite think of his name halerkiah walker 
+",1,0,,,,,,,
+" and you be running about as fast as you can but go as close as him as you will y see for before you get as close as him as you can then youve you know youwill call his turn and things of red bear 
+",1,0,,,,,,,
+" but they make know cause um yeah dats right it helps okay and i used his you be swinging i used his give uh yes why we had these clubs you know gangs often used to go uptown and fight i dont ask why you know just one of those things you know 
+",1,0,,,,,,,
+" a lot of times we be sorry some things shouldnt only did that make you said mr you understand but most mornings it does sound better 
+",1,0,,,,,,,
+" if they didnt know cause uh yeah thats right her helps you and she used to always be swinging i used too practice uh you know they had these clubs you know gangs we used to be uptown wanna fight uptown dont know it you know just much of those things you know 
+",1,0,,,,,,,
+"And we would see that and it would be a thing.
+",0,0,,,,,,,
+"Versus playing hide and seek unless we was gonna be seeking I don't know the stock market or something.
+",0,0,,,,,,,
+"Thank you God for keeping me from killing myself but I won't be punked again homie.
+",0,0,,,,,,,
+"One of my- One of my friends Tyke- I wanted to be just like Tyke.
+",0,0,,,,,,,
+" but mostly basically in the end between my basketball career they waited until my the yeah the spring semester in my senior year to even be like really you dont mean the number thirty minutes of credits to number 
+",1,0,,,,,,,
+" and like you do you enj i iodine i when i watch you alone when you still be in your tired little head you like you has simply learned what needs doing 
+",1,0,,,,,,,
+"And um obviously they know what happened already but to let them know that we're not gonna be able to have open casket do you have a picture?
+",0,0,,,,,,,
+"And um  it was another song but they went on to be with Salt-n-Pepa.
+",0,0,,,,,,,
+"So I thought it would be - I thought other cities were mostly black I thought other cities were mostly black professionals.
+",0,0,,,,,,,
+"Um  I just- it's- it's a system and while I'm happy for a safer DC I am sad that we can- we feel like we're not supposed to be a part of it.
+",0,0,,,,,,,
+" but they dont know cause uh yeah yea right who killed you and he used to always be swinging i used to give uh you know we had these classes you know gangs we used to go uptown they fight i dont know why we know just one on those i ever know 
+",1,0,,,,,,,
+"What does it mean to be black enough?
+",0,0,,,,,,,
+"Um I love- like I love dance because I personally feel that's the most intimate you can be physically with somebody that's not like sexual.
+",0,0,,,,,,,
+" and do h do you enj g i when it see you work or just be in your own little zone s just like you actually about enjoy what you doing 
+",1,0,,,,,,,
+" they go to school come home be in coffee skip and wednesday and day dongotta do nothing and be on the streets 
+",1,0,,,,,,,
+"Oh nah that- you can't be in the right class.
+",0,0,,,,,,,
+"That should be alright.
+",0,0,,,,,,,
+"Like they're- he's not a- I would say- I don't wanna say he's a beta male but like he's not one to be like rah!
+",0,0,,,,,,,
+" the cafeteria like the reason do they get they just changed the cafeteria plates that like they used to have food everywhere in the cafeteria inch be throwing to them like plastic trays just stuff 
+",1,0,,,,,,,
+"He happened to be there.
+",0,0,,,,,,,
+" no all told us speak english except here when i know like we if they take them in school we be well term each other friends in stuff like spanish name_calling blah like that 
+",1,0,,,,,,,
+" you know but i dont because god he volition stop thats me god say i forgive god for asking himself i teach you my story she be like indira you need something just stop 
+",1,0,,,,,,,
+" cause they real they give me it wanna know cause you like their give give me a give this one to their nah he just know they be like girl love you know that they phrase sh phrase words 
+",1,1,,,,,,,
+"Uh can I be explicit?
+",0,0,,,,,,,
+"Um  Not as much as I as I should be I mean growing up there was always a trip to a museum.
+",0,0,,,,,,,
+" she know that i donre because god he will always thats and i and i thank god grace miller again i told her my promise she be like here if you need something just come 
+",1,0,,,,,,,
+" have there some places that i cannot go and couldnt like well made sure you say this proper makes sure you dont you brand be too loud cause those are here judge you 
+",1,0,,,,,,,
+" sometime those busses just be so hot because they rich_person your standing for al damn eyes in your mirror 
+",1,0,,,,,,,
+"I would be one of those people that would purchase like at the Ritz Georgetown or something like that.
+",0,0,,,,,,,
+"So my peer groups tend to be older because I can communicate with them whereas like my six year old friends at that time they had no idea.
+",0,0,,,,,,,
+" and kids get mad what if it be a fair of child and prayer hall what want us do we likeem 
+",1,0,,,,,,,
+" sometime you have my gospel music i be done like in another universe mean wanna write songs that are what you know like um oh he cant never think of his name daddy walker 
+",1,0,,,,,,,
+"I liked how open the school looked there's like bright sun roof atriums small classes things that I had known from that one quick public school experience that I know I like to have just to be able to learn.
+",0,0,,,,,,,
+" they go to school come home be in coffee skip and wednesday and day dongotta do nothing and be on the streets 
+",1,0,,,,,,,
+" he said oh and so hes the kind of guy i just know like he if he come alone from work he like he like not see see girlfriend in their house or he be doing it instead of talking to another boy that he arent there 
+",1,0,,,,,,,
+" when they real well give me a i mean if you know their terminol give me a give you one bit which was i just saying they be like girl love you ask how they words them phrase words 
+",1,0,,,,,,,
+" split a really cool brand new three bedroom with two other options but makes your rent not be three twenty word game 
+",1,0,,,,,,,
+"I'd rather be in a place where everybody is pretty much Mm.
+",0,1,,,,,,,
+"The bleachers are  uh sitting up against where the school uh would be.
+",0,0,,,,,,,
+" we do it are you enj i m when i ask you clemon like this never be zone your own dark zone you maybe you just really enjoy what you doing 
+",1,0,,,,,,,
+"Like our house was the house to be at like everybody no matter what it wasn't a day that went past that we wouldn't get a visit from at least a uncle one of my aunts uh some of my- you know what I'm saying one of my cousins one of my aunts uh daughters or so.
+",0,0,,,,,,,
+" however some are places about i never see and someb like well make sure well say this proper make sure you aint yer know be too loud cause people were gonna boo you 
+",1,0,,,,,,,
+" it like me thought i probably walked behind her cause i know my mom and me we be like hey up your street and well see stuff get on 
+",1,0,,,,,,,
+"Um  if there's another way to get there don't be afraid to think of that.
+",0,1,,,,,,,
+" but they didnmi know cause oh yeah its right it helps you and your promise to always be here i used to give uh your know we had these clubs have know and we used to go uptown and now they dont know why you know just one of those things you know 
+",1,0,,,,,,,
+" no most of us speak english except for when you mean about us if we take spanish high school we be well paint each their names to swear in spanish or something like them 
+",1,0,,,,,,,
+"Like f- it's- it- if it's really this thing like it's gonna be a big deal.
+",0,0,,,,,,,
+" yeah but actually in the inch half my college career he waited until my wow yeah the spring class of my senior year to basically be like yeah you dont have the means of amount for minutes on graduate 
+",1,0,,,,,,,
+"I think we may be friends on Facebook but the last name changed and so I wouldn't know.
+",0,0,,,,,,,
+" but um poetry poetry andbecame where i got to perform that front of the club and thatn when people had become watching me be like well you you nice 
+",1,0,,,,,,,
+" ah but basically in the confusion of that college career i waited until my the yeah big spring semester of her senior education which basically be simply yeah you donpre have the number of amount of credits to graduate 
+",1,0,,,,,,,
+"So he'll be like oh yeah like I'll go wherever you guys wanna go.
+",0,0,,,,,,,
+" cause they real well leave me mine i mean if they recognize their terminol in my more one give me more of their if i just know they be like and love you know how they phrase sh phrase words 
+",1,0,,,,,,,
+"Oh my gosh so now mumbo sauce it used to be just a DC thing but Chicago will argue.
+",0,0,,,,,,,
+"My teacher uh Miss Sevan my English teacher um she had us write a paper on what we will be doing over the summer or uh things you wanna leave this class with.
+",0,0,,,,,,,
+" cause they damn well give up one you mean if you know their terminol that me a give to one of their nah can just know by be like girl love you know because they do them phrase words 
+",1,0,,,,,,,
+" some feel if iodine gonna put disney on amazon whos just gonna been um like be chilling on venus prime 
+",1,0,,,,,,,
+" he just oh and helium heis the kind of man whose was know like he if he come home got it not like he like to see his girlfriend in the morning or he be doing something instead of talking the other boy while he aint there 
+",1,0,,,,,,,
+" please wait just they just go on past me because i be honest shitm not already on that bus so i fucking stand there wait on that next one 
+",1,0,,,,,,,
+" i feel like im going put her on repeat whats just like die too and hopefully be chilling on amazon prime 
+",1,0,,,,,,,
+" the opposite like another place why people f they they changed the foam plates is like like they used to go food fights food same cafeteria and be throwing like by the plastic bottles and stuff 
+",1,0,,,,,,,
+" and john loves them cause if it be a war the children inch the hall i ask it do we makeem 
+",1,0,,,,,,,
+" but you didnt try cause uh yeah thats right it helps you and i used to wanna be swinging power was out grow uh you know we had these things you know gangs we know to run uptown or fight i dont know why you know just one of those things you know 
+",1,0,,,,,,,
+"I'd be like well I ain't got nobody else play play with y'all.
+",0,1,,,,,,,
+"Okay I would be like I'm tired.
+",0,0,,,,,,,
+"So they're like we need someone who can talk to the families and just be mundane.
+",0,0,,,,,,,
+"I was like I am moving I can't be here this is- I'm going to commit a crime and I don't wanna commit a crime  cause I don't want my kids in these schools.
+",0,0,,,,,,,
+" a lot think of you be like well they couldnts have did that one those guys they you see but most now this does seem better 
+",1,0,,,,,,,
+"And then there would- we'd also like  always kind of feel bad for people at a swim meet where they were so slow that like everyone else would be done and they'd get like the pity clap.
+",0,0,,,,,,,
+"I don't wanna be here.
+",0,0,,,,,,,
+" well hey im going over my cousins over to spend  night because you father was real strict about us be spending tomorrow night taking people all 
+",1,0,,,,,,,
+" sometime i use my gospel music i be in like in your world i mean i have songs for just but know know my hell oh i canim never thinking of his name josh walker 
+",1,0,,,,,,,
+" and then you do all enj i wanna when me watch my clemon sometimes you just be in your particular like zone you like just really regret anything you say 
+",1,0,,,,,,,
+,0,0,,,,,,,
+" but see poetry club thats when i had that fly over countries of inch world until thats when people would come to me be like well you you us 
+",1,0,,,,,,,
+" he and oh and um hes the kind of guy that you know like says if he come home at work work like that happens to chase his girlfriend round the house or sometimes be doing something instead of proposing to another boy while he aint there 
+",1,0,,,,,,,
+" you be but why dont because that just will always thatk why i thought i thank god for miller johnson i told her narrative story she be like go if you love him just aks 
+",1,1,,,,,,,
+"I feel like I- a- I did write my uh Cutberto- Treana uh- well my college essays on that and to be honest it was kind of playing the race card a little bit but whatever it worked out so.
+",0,0,,,,,,,
+"Um so we would be like Mr. Michaelyn there's nothing we can do with them.
+",0,0,,,,,,,
+"My top five bands of all time would be Northeast Backyard Junk Yard Chuck and one more Lissen Band.
+",0,0,,,,,,,
+" get a whole bunch here players all the time be after i go know we play 
+",1,0,,,,,,,
+" like technically ohio coming over my cousins before i spend this night since my grandma was real strict about us be spending the days over from here 
+",1,0,,,,,,,
+" but the um my associates that a be with they havent operate on a property 
+",1,0,,,,,,,
+"It may actually be longer.
+",0,0,,,,,,,
+" sometime i have my favourite god i be inch over in another life i mean i have songs that just just do know like and oh really cant yet think in any name halerkiah walker 
+",1,0,,,,,,,
+" stabbing her wont be doing that remember their mom s ma his mom 
+",1,0,,,,,,,
+" and abraham looks mad cause if here be u lot of girls in the hall peter tells us do he knowem 
+",1,0,,,,,,,
+" some lot of days you be like well they shouldnno have did rich_person shit i know that you try but most things it just sound ridiculous 
+",1,0,,,,,,,
+"Um and that's when I realized no matter whether you're in the right place at the right time it can still be the wrong situation.
+",0,0,,,,,,,
+"And then I talked to some who were at Howard My um-  and- and- and they kept telling me like Kael they are s- I- I swear there are some incredibly not bright people who we have gone to law school with you'll be fine.
+",0,0,,,,,,,
+" holding her hadnt be silly 
+",1,0,,,,,,,
+" they it would dip stuff off you if we be looking at them we would see what actually were holding them about but he were spitting that stuff after 
+",1,0,,,,,,,
+" im a yeah okay i say cut down it cause he know my life and i we be walking like up the street and didnt see stuff going everywhere 
+",1,0,,,,,,,
+" but they didnt help cause uh yeah thats right it helps you and i used it always be swinging i learned to be uh you know we had these friends you know gangs we used gang bar somewhere and you i dont know maybe you said just one of those things you know 
+",1,0,,,,,,,
+"You know one of them like yeah you gotta be hard to live in Barry Farms type of jont.
+",0,0,,,,,,,
+" ic like no and he probably thought on it cause y know my mom and i we be going way walk the street like weth see stuff going on 
+",1,0,,,,,,,
+" you know maybe why donme because really you will always thats why that say i thank mother for her i i told her my story she be like indira if you try something just aks 
+",1,0,,,,,,,
+" cause it can well give me another ya mean that you know their terminol give me someone give me john for them not i just know they be like i love you know how they phrase sh phrase words 
+",1,0,,,,,,,
+"Cause I was like I'm not gonna be here forever.
+",0,0,,,,,,,
+"What am I gonna be?
+",0,0,,,,,,,
+" also but basically basically the introduction to my college career they waited until my well yeah the spring semester in our senior semester to basically be like yeah people dont have the tons of amount of credits you graduate 
+",1,0,,,,,,,
+"You know what I'm saying how to handle myself how to be on the streets of- of- of DC.
+",0,0,,,,,,,
+"So I thought I would be a voice over artist and a uh visual artist a comic book artist.
+",0,0,,,,,,,
+" but now poetry song dats all i got to perform in front of music front and thats when people would react to me be quite dang fucking fucking nice 
+",1,0,,,,,,,
+"Because they had to sacrifice they had to like drive far to take me to be around the type of kids that could keep my interest.
+",0,0,,,,,,,
+"And that applies to like material things also like  my mom will have like shoes like sh- worn out shoes that she probably shouldn't be wearing anymore but she just wears them because they're there.
+",0,0,,,,,,,
+"Like I could hit Akshay up right now even though we haven't talked in a couple of months and be like yo I'm coming over.
+",0,1,,,,,,,
+" just go to school come home walk in my neighborhood all alone and simply cant get nothing than be on your internet 
+",1,0,,,,,,,
+"I didn't wanna be one of those um people that oh well I'm gonna live at home and pretty much now have my parents raise me and my daughter.
+",0,0,,,,,,,
+"Um be it- um I went to a conference in two th- ninety-nine.
+",0,0,,,,,,,
+" like if like iodine be without him 
+",1,0,,,,,,,
+"Um if you could leave one piece of advice what would it be?
+",0,0,,,,,,,
+"Um so the earliest would be dance.
+",0,0,,,,,,,
+" i feel go just go all past me and me be like im alone standing on that bus but i just stand and wait beside her bus train 
+",1,0,,,,,,,
+"And my heart got softened toward it to come and help and be a part of the solution.
+",0,0,,,,,,,
+" but they didnt know know uh yeah thats about it really is and that used to never be swinging i used to give uh you know kids had these clubs you run gangs then used to go uptown and fight they dont know why you know just one of those things you mean 
+",1,0,,,,,,,
+"Um then like I would see all the youngins that I used to go- go to school with and it- they would be like yo Elodia you- you coming to- uh oh yeah you don't need to go to class.
+",0,0,,,,,,,
+"if you're going down- if you gonna go to um the wharf for example where it used to be Phillips  you- you can go that way to get there.
+",0,0,,,,,,,
+" split a fairly nice brand new three bedroom house two other bedrooms must guarantee my rent only be three dollars a weekend 
+",1,0,,,,,,,
+" if kids be watching kids nowadays like donya and them know because ire listening by looking 
+",1,0,,,,,,,
+" the cafeteria like like reason why they f t they changed what big plates to stupid like they used them having food fights in the cafeteria who be throwing like them heavy plastic heavy and drawers 
+",1,0,,,,,,,
+" you be but why dont because that just will always thatk why i thought i thank god for miller johnson i told her narrative story she be like go if you love him just aks 
+",1,0,,,,,,,
+"My mom goes to register me the principal is- looks at my record and he sees the grades and he's like oh you'll be great.
+",0,0,,,,,,,
+" when they didnless know me uh yeah thats right this helps you and i used to always be cool i used to give uh you give we have these clubs you needed gangs we used to go uptown and fight i donnot know why you needs just one of those things you need 
+",1,0,,,,,,,
+"And you're expected to bring them back m- like make 'em look good to be seen with their family.
+",0,1,,,,,,,
+"I'm here because I want to be.
+",0,0,,,,,,,
+"And at the time the economy was different cause I was applying like started taking the test and all that stuff so that had to be two thousand- wait a minute I f- got my acceptance letters March two thousand nine.
+",0,0,,,,,,,
+" and when they hear it they be through their praise him sol 
+",1,0,,,,,,,
+" meanwhile i wouldnt uh i wouldnt be flying around on your outside if im street more toward london 
+",1,0,,,,,,,
+" now when they love christ they be amazed and love god so 
+",1,0,,,,,,,
+" the same like our reason why they l r they changed the foam products is because like who wants to have food fights in these cafeteria which be throwing like throw heavy plastic trays and belts 
+",1,0,,,,,,,
+" tell her doesnt be so that fine my doctor will my therapist 
+",1,0,,,,,,,
+" oh oh im taking over my cousins house to remember the holidays and my mom feels still cool about us be spending rigorous evenings visiting people here 
+",1,0,,,,,,,
+"And he would just be so upset but he knew that it was- it was nothing you could really do.
+",0,0,,,,,,,
+"And- And still work and still be a mom Still- Mm-hm.
+",0,1,,,,,,,
+" but they didnnot kill cause uh fuck thatma right it helps everybody and i used to always be swinging i used that give uh you know we get these need to know gangs we used to go uptown and go i dont and why you know just one of those things you know 
+",1,0,,,,,,,
+" well guess if he just leave and or hang around male_child boys all be like us 
+",1,0,,,,,,,
+" im almost yeah sorry i never walked past it yes i know my friends know her it be walking like over the street and wed see everything going on 
+",1,0,,,,,,,
+" you know have my room including my own even fam house baby house as her family lives in with and be my mother and grandmother great sister and brothers 
+",1,0,,,,,,,
+"Um I remember  right around when I was graduating I was looking for her as well just to be like oh yeah like I did it I did it.
+",0,0,,,,,,,
+"Or Pharaoh tried to kill Moses all the babies so Moses wouldn't come and then the King tried to kill Jesus p- so Jesus wouldn't become and be the Messiah.
+",0,0,,,,,,,
+"Whereas I can go to work and not be so like oh my god what's going on?
+",0,0,,,,,,,
+" or well basically in the end of my college career she waited until my the yeah regular spring classes of semester third year which basically be like yeah you shouldnt have the equivalent of amount of credits to graduate 
+",1,0,,,,,,,
+"Sh- she let me know folks would think that I'm- that I'm crazy but you have to be crazy to survive in this world and not think that things are going crazy.
+",0,0,,,,,,,
+"Cause I was gonna be nineteen that year.
+",0,0,,,,,,,
+"Does that part have to be on the website or whatever you guys are doing?
+",0,0,,,,,,,
+" cause sometime we be like and s and somebody yout worry but just think are that your mother 
+",1,0,,,,,,,
+" or um more usually thator when i used to perform in front of the school and thatre school people that come to us be like dang you knows people 
+",1,0,,,,,,,
+" well to know i love you here be around people often feel 
+",1,0,,,,,,,
+"But I wanna be in school.
+",0,0,,,,,,,
+" well it woulds mind i wouldt be messing around off our about maybe wed go back to school 
+",1,0,,,,,,,
+" he just oh she um its the kind of guy that you know how he if everybody come home from work he like helium he better all see his girlfriend about the house or he be over something instead of talking to another person while he aint busy 
+",1,0,,,,,,,
+" and i think my peter koreans in rochester pretty rochester be really japanese and theyre never from rochester 
+",1,0,,,,,,,
+" even go to school come along sit through their inch all evenings and they ed think nothing but be around the internet 
+",1,0,,,,,,,
+" cause no real well give me one i see if ye know what terminol give you a give me one of their nah me just mean they be like girl love you phrase how they swallow words phrase words 
+",1,0,,,,,,,
+" like you think to me everybody in america do much be speaks spanish so ire not through rochester 
+",1,0,,,,,,,
+"Um and so it was a real like touching sort of moment where some of my classmates were really starting to be like oh like dang like little Habiba like you started to mess with us and we started messing with him.
+",0,0,,,,,,,
+"Grow up to be an entrepreneur.
+",0,0,,,,,,,
+"So you gotta hang around what you wanna be.
+",0,1,,,,,,,
+" however we aren places that we do go and im iodine well make sure you say this proper making sure you donre you know sing too loud like people are the be nothing 
+",1,0,,,,,,,
+"I'll- I'll be quiet.
+",0,1,,,,,,,
+" i feel like im gonna turn something down now itl just me like sit that like be chilling via amazon tonight 
+",1,0,,,,,,,
+" because the um my associates and i be correct generally dont live on bash planet 
+",1,0,,,,,,,
+" but um poetry club thats when i got together perform in the school her school and its when people did come tell me be real dang are you talk 
+",1,0,,,,,,,
+" i feel like likem saying drop out via amazon itkinda just felt like sit around like be chilling on amazon now 
+",1,0,,,,,,,
+" really see you just get maine past and till i be like itm back standing on that field so i just stand and wait for the right one 
+",1,0,,,,,,,
+"But as time went on we didn't have the tools to be married you know to stay married.
+",0,0,,,,,,,
+"Mom would cook They'd be sitting there they wouldn't leave about ten eleven o-clock at night every day.
+",0,0,,,,,,,
+"You don't just get up and just lounge and you know there's no space for you in- in the world for real you need to not be here if you don't have some type of purpose or some type of meaning or- or want.
+",0,0,,,,,,,
+" this people crap be idiots 
+",1,0,,,,,,,
+" number hundred of things you be right well well couldnt have did that one some know and they know because most times it does sound stupid 
+",1,0,,,,,,,
+" sometime folks do my gospel music i be in america in every decade i iodine i play songs that just just you know like um oh i shant quite think of his name halerkiah taylor 
+",1,0,,,,,,,
+"But if you ask me anything about that now I'd be like Mm-mm-mm.
+",1,0,,,,,,,
+"What would that piece of advice be?
+",0,0,,,,,,,
+"I was not an over-achiever when it came to swimming that was just supposed to be something social and exercise.
+",0,0,,,,,,,
+" maybe i have this gospel girl i be song like in another city to do i have songs that just just you know like um oh i cant never tell of his dad jake walker 
+",1,0,,,,,,,
+" he could find the rope and he could come in for o other fellad be following the horse maybe they would ride together 
+",1,0,,,,,,,
+"She'd be in the latch hook zone and I'm just sitting here like okay alright.
+",0,0,,,,,,,
+" a lot of people you be well sorry they shouldnt it did that today you know they know did but both times it does pretty great 
+",1,0,,,,,,,
+" split a really nice little new three bedroom with two decent people and claim their rent please be twenty thirty a year 
+",1,0,,,,,,,
+"Um  those stories are always the funniest because they- that's when I learned that people can be very creative with their stories  when they come up with things.
+",0,0,,,,,,,
+" and like you you this make just see when i watch you or sometimes you just be of your own safety zone you like you just make enjoy what we doing 
+",1,0,,,,,,,
+" but they didnt help cause uh yeah thats right it helps you and i used it always be swinging i learned to be uh you know we had these friends you know gangs we used gang bar somewhere and you i dont know maybe you said just one of those things you know 
+",1,0,,,,,,,
+" he just oh like hey hes my kind of guy that you know like he if he come home from work but like he like like hear their dad in the house or he be doing weird because of talking to another boy while he aint home 
+",1,0,,,,,,,
+" i just we and um hes the kind really like that you know know he if he come home from practice he like he like to see his girlfriend in the morning or he be doing it instead if talking to another boy and he getst there 
+",1,0,,,,,,,
+" may i have what gospel music i be in like in another world but hope i have all that just just you know was jones if i cant calcium think of his death halerkiah walker 
+",1,0,,,,,,,
+" just feel like im gonna break it over it its about my look sit you like be chilling on amazon forever 
+",1,0,,,,,,,
+" and now be running up as fast as you will so stay on close behind him as you can you see for if you get as close as nearly as you can know hell you know youll call the turn and turn of red light 
+",1,0,,,,,,,
+" the story like the reason why they f d they looked into foam plates is thinking like people used to have food fights with a subway and be throwing like them like plastic trays and sacks 
+",1,0,,,,,,,
+" but they didnt know cause uh yeah thats right it says you and we used to always be swinging i use to give uh do know we had know meetings you know gangs we used of go uptown and fight things dont know if you know just one of many things you know 
+",1,0,,,,,,,
+"And you know cause they have to cause you got people paying to be here.
+",0,1,,,,,,,
+" i say like iget gonna chuck sodium into amazon itd he gonna like awesome and like be chilling with amazon prime 
+",1,0,,,,,,,
+" no all of us speak english first for ivy and know like summer if kids take spanish in london we be shead call each other names and call in europe or somewhere like that 
+",1,0,,,,,,,
+" but um dance club baseball_club which i got off perform the front around the school and everythings when people actually come watching me be like wow you you nice 
+",1,0,,,,,,,
+"And when we lived in Maryland he used to just come home with all types of females and all kinds of vicious gear and gold chains and all of that stuff you know he kind of like inspired me I just wanted to be with that dude all the time.
+",0,1,,,,,,,
+" helium just no and um hes you kind of guy that you know like he if he is home from work he like he like to remember his girlfriend in the afternoon or he be doing something instead in talking to another customer when they aint talking 
+",1,1,,,,,,,
+"Like don't conquistador the shit like fucking you know like be a part.
+",0,0,,,,,,,
+" if they didnt know cause uh yeah thats right her helps you and she used to always be swinging i used too practice uh you know they had these clubs you know gangs we used to be uptown wanna fight uptown dont know it you know just much of those things you know 
+",1,0,,,,,,,
+" well the woman my girlfriend that i be with she wouldnt live as my own 
+",1,0,,,,,,,
+"Like I don't wanna be here anymore.
+",0,0,,,,,,,
+"Um fast forward two years later and I'm at that open mic in College Park and the feature happens to be that guy Mauro.
+",0,0,,,,,,,
+" however there other places that i often go and ir like well make for you say this proper make what you dont just know be too loud before someone start know kiss you 
+",1,0,,,,,,,
+" sometime i change the good music i be in like around another world you mean i have songs that just sometimes feel like jesus oh i cant never think on his name halerkiah walker 
+",1,0,,,,,,,
+" but they didnt tell cause uh yeah thats right it if you remember i used to always be nice i used to give uh you know it had these clubs you know gangs we used too go uptown and now i dont know why they know just one of many things you hear 
+",1,0,,,,,,,
+" he just oh and um thiss the stuff of guy that you always like he if they come home from work he like he like to see his dog in the club or oregon be doing something instead people talking to our boy but mine aint there 
+",1,0,,,,,,,
+" the truth honestly the reason so we f k they changed the foam one is because like they used to have food fights so battle cafeteria you be throwing over them heavy gold trays and stuff 
+",1,0,,,,,,,
+" i no we just walk on around me and i be like imetres not walking on that bus so we just stand my watch for the wrong one 
+",1,0,,,,,,,
+"Like what- how did that cause you to be different Mm-hm.
+",0,0,,,,,,,
+" the stuff like the reason why they f b they changed like foam plates is well now like used to make no machines in the cafeteria that be throwing like them heavy trash trays and stuff 
+",1,0,,,,,,,
+" split a really nice trade_name of three star with two reception suites and have his wife only be three thirds a month 
+",1,0,,,,,,,
+" be a really neat or new one hundred with two other tenants and have the rent only be three plus angstrom month 
+",1,0,,,,,,,
+"So I had these people in front of me you know what I'm saying that were older that I- I used to be with all the time you know what I'm saying hang around and- and learn things from.
+",0,0,,,,,,,
+" no some of us speak well english twenty one you understand until we if we take spanish in school we be well call each else names of stuff in class but something like that 
+",1,0,,,,,,,
+"Even though I did all the behaviors of an adult a part of me still tried to be in school.
+",0,1,,,,,,,
+"Like I didn't wanna be associated with that anymore cause I knew where that led.
+",0,1,,,,,,,
+" no some would dip stuff if eaten and you be looking at them not to understand what they were talking badly about merely they finished spitting out shortly after 
+",1,0,,,,,,,
+" everybody be rich celebrate remember you do 
+",1,0,,,,,,,
+" you know have other family your ma mother my fam i house that my parents live in somewhere mother be my mom and grandmother and brothers for brothers 
+",1,0,,,,,,,
+" thats somewhere you have hot sauce for like i go go a little good place ta be like this ainave good 
+",1,0,,,,,,,
+" but they didnt either cause uh yeah thats right it seems you and i used to always be swinging i used to give advice you know we had these clubs you remember because we use to go use and fight i dont know where you know every one of this club you know 
+",1,0,,,,,,,
+"to be the Youth um- a Youth Discipleship Director.
+",0,0,,,,,,,
+" sometime iodine have favorite music i be in like in another world i mean i have kind of just right you know my um only i cant play of his father halerkiah walker 
+",1,0,,,,,,,
+" now just think to me everybody in here inch much be teaches english almost allre not from town 
+",1,0,,,,,,,
+"Were you not close at- I mean not because y'all are just from DC y'all should be automatic friends.
+",0,0,,,,,,,
+" sometime the places just be very silent and they got customers standing in ca approach ha near in the mirror 
+",1,0,,,,,,,
+"Um you know amidst of having fun we would um also have to avoid certain things in the a- in the streets that we knew we weren't supposed to be involved in.
+",0,0,,,,,,,
+"I think she just felt she needed to be there.
+",0,0,,,,,,,
+" he just if and um hims the kind of guy so you know al he if he come semen from work he like he like to see his sister in the restaurant or now be cooking something instead of referring to his boy while he aint there 
+",1,0,,,,,,,
+"And it's- then I have to be the one saying but do you guys have a picture?
+",0,0,,,,,,,
+" he guess if helium just come and go hang with the bitch let be want him 
+",1,0,,,,,,,
+" their reason like the if only they f e do spread the foam out is because say they used to have food rich_person in the cafeteria and be throwing like them heavy plastic trays and labels 
+",1,0,,,,,,,
+" sometime so do my gospel music i be in deep in another world i mean can do rich_person that stuff just you know like um oh i cant never think up your voice halerkiah james 
+",1,0,,,,,,,
+"I grew up listening to it but I never thought I would be rapping.
+",0,1,,,,,,,
+"Started as um wanted to be a architect.
+",0,0,,,,,,,
+"Karma's awful so let me just be quiet.
+",0,0,,,,,,,
+"But those are the most you know what I'm saying the names that you would actually remember like you could ask anybody about those bands and they'll be able to tell you something about 'em.
+",0,0,,,,,,,
+" you go to college come back remain in their neighborhood till evening and they wont do shit but be on social internet 
+",1,0,,,,,,,
+"But I'm networking and I'm getting with the types of people that I wanna be around.
+",0,0,,,,,,,
+" thatin because you say mumbo doo cause cause we just build me little black place and be like which aint real 
+",1,0,,,,,,,
+"Everybody would be sitting there patiently waiting um on the bleachers.
+",0,1,,,,,,,
+" not i they just smile on at me like i be like whom already standing on that bus instead they just stand and watch delay one next one 
+",1,0,,,,,,,
+" but they didnt get cause cause yeah thats right it helps you and i used most always be swinging we used to give uh i know we have these clubs you know gangs we used of go uptown and fight i dont know but you got just one of those things you want 
+",1,0,,,,,,,
+" he can oh and um hes the kind of guy that you know him he or he helium home from work he like he can just see some girlfriend in the house or he be in something instead of talking over another lady while he ainb there 
+",1,1,,,,,,,
+"You know when I was young I just was pressed to be with him all the time.
+",0,0,,,,,,,
+" um basically in the middle of a college career they took career my the yeah the spring semester of my junior year to suddenly be like yeah why dont use some kind of amount of credits to graduate 
+",1,1,,,,,,,
+"But they would take me over there just to be with my sister to kind of like you know what I'm saying I guess break the monotony up from her husband doing crazy stuff.
+",0,0,,,,,,,
+" but just oh and um robs the kind of guy that you know like he if he come home from work or can he like to see his face in the mirror or he be kissing something instead of waving to its boy while he arent there 
+",1,0,,,,,,,
+"It's like I wouldn't be considered dark in DR.
+",0,1,,,,,,,
+" sometime i have my gospel music you be kinda like about another world  mean i have songs that just just you like like um oh i havent ever heard of this son halerkiah scott 
+",1,1,,,,,,,
+" sometime i heard my gospel music i be in like from another world i thought i have seen how some like you read like um sometimes they cant never think never his name halerkiah walker 
+",1,0,,,,,,,
+"You- you couldn't be where I am today.
+",0,0,,,,,,,
+" was whole whole bunch like it all the time be after what you wanted outside play 
+",1,0,,,,,,,
+" i know who always dont because god he will always thats why i thought i knew everyone for john i i told her my names she be like indira do you need permission just ask 
+",1,0,,,,,,,
+" no both of us speak first except for when you know have this if we take it in school we be well make each other names or stuff than grade a something like that 
+",1,0,,,,,,,
+" whom like sorry and you probably get probably that plus i know his dick means i we be walking like along the street and well see stuff going on 
+",1,0,,,,,,,
+"Um I didn't actually want to be there at either- either one of those times.
+",0,0,,,,,,,
+"First of all I can only listen to go go music for five minutes and that's how long the song should be.
+",0,1,,,,,,,
+"Some of the classes think that only a particular race can be one thing and vice versa.
+",0,0,,,,,,,
+"Um then for- la- a- after I turned twenty-one I had just been thinking to myself damn I would really like to have a beer with my dad just to like you know be like look shit is all good like you know there was never any issue.
+",0,0,,,,,,,
+" merely they didnt know cause why yeah thats right because we and and i used to love be swinging i used to give gifts you know he had these clubs you know gangs we used one go together and fight i dont have why you know just one of those things you know 
+",1,0,,,,,,,
+" but they didnt it cause uh yeah everybodys right it helps you and i used to always be swinging i used to give speeches you know we close some clubs who know gangs we used to go uptown and fight i couldnt know why sometimes go just one of those things you go 
+",1,0,,,,,,,
+"Um I might be dancing in a- a friend of mine's music video that's coming up.
+",0,0,,,,,,,
+" okay some eel dip stuff if so if you be looks at them tryna d imagine that them were talking about about but they were forgetting that stuff after 
+",1,0,,,,,,,
+"And a lot of folks thought I would be a preacher or like a pastor or something like that.
+",0,0,,,,,,,
+" had a wild bunch of kids at the time be love him you know know remember 
+",1,0,,,,,,,
+"Cause it's like you put these- you build up these nice rich neighborhood with these affluent people are gonna be there but you- you leave the surrounding areas the same and then take their jobs.
+",0,0,,,,,,,
+" so they mayt know cause uh yeah thats right it helps you and i used to always be swinging i used too iodine uh you know we had these stories who know gangs we used to talk uptown and fight who doesnt find why you say just one of those things you know 
+",1,0,,,,,,,
+"And grandma'd turn and the word nigga used to be used a lot.
+",0,0,,,,,,,
+"And so her cousin would come to me and be like Karmyn Yaser was asking about you.
+",0,0,,,,,,,
+"And tryna be somebody's wife.
+",0,0,,,,,,,
+" i know but i wont because god he will always thats as i say i let god for what i state taught him every story she be like indira if there need answers just aks 
+",1,0,,,,,,,
+" since she saw them cause let it be a lot of children in the hall she mean since we bash 
+",1,0,,,,,,,
+" like you know what i iodine should something go down coast it be a reference in proper english 
+",1,0,,,,,,,
+" um but basically in the end of my undergraduate career they waited until top or top the last semester of its freshman year what year be like yeah who shouldnt have the number of amount of credits to graduate 
+",1,0,,,,,,,
+" he just oh and um hes like kinda of guy that you know like he whenever he come out from work he like he like never see his boyfriend in the house or he be doing something instead or speaking to talk brother while he ainim there 
+",1,1,,,,,,,
+" cause nobody real can give me many i mean apparently you know their one give me a give him one of mine u i just know girl be like girl love you know how they phrase sh almost everything 
+",1,0,,,,,,,
+" cause they real just give shit one i mean if ya know their terminol make me a use me one like those know nah i just know this be like girl love that mean how they phrase sh phrase words 
+",1,0,,,,,,,
+" cause they real well give me one you mean maybe some mean their terminol give me maine give me all of yours nah is just had they be like girl no you know how to phrase sh phrase words 
+",1,0,,,,,,,
+" set up pretty nice brand new three bedroom with two other people and when this rent go be three thousand a month 
+",1,0,,,,,,,
+"Never felt like it then I just wanted to be like I hope they got insurance but I never felt like it then.
+",0,0,,,,,,,
+" he uh oh the um hem one kind other guy that you know like he if he come home with work he like he like to meet his girlfriend outside the house or he be doin make instead one talking to another boy while he aint there 
+",1,0,,,,,,,
+" sometimes when they find information_technology they be amazed and feel it too 
+",1,0,,,,,,,
+" no can she remember while now when any drive down shema myself for it be sure oh yeah 
+",1,0,,,,,,,
+"Uh but I was interested in what this thing was that's gonna be like wiping people out in ten years um within my community.
+",0,0,,,,,,,
+" want that whole bunch younger kids by the time be after it you know we thought 
+",1,1,,,,,,,
+"And you should be doing this and da da da da da!
+",0,0,,,,,,,
+" except oh im a buy my cousinnight and must spend the house and then mom feels real strict about my be spending the night over people again 
+",1,0,,,,,,,
+"Um I didn't know later I would be a pastor or you know a rapper you know.
+",0,0,,,,,,,
+" now like im going into a cousint house to spend the morning and our mom was real strict about not be doing the night over two spending 
+",1,0,,,,,,,
+" im sorry yeah but i just have past it cause i know his mother and i we be walking like near the street except didnt see stuff going on 
+",1,0,,,,,,,
+" sometime they put my latest music tune be in like in another world kinda like i do songs that just just you know like um oh i didnt never know of think name halerkiah matthews 
+",1,0,,,,,,,
+"Um and it was- it was really good for me to just be there for a little bit before I purchased.
+",0,0,,,,,,,
+" you know but he dont just god helium say always theys a he say with thank god for miller i i tell her my story she be like indira if you felt something call aks 
+",1,0,,,,,,,
+" because in this group iodine be with 
+",1,0,,,,,,,
+" no all of us had them except for when you know those we if we take them in school we be wed throw together other names and stuff and spanish as something material them 
+",1,0,,,,,,,
+"they can be saying all this.
+",0,0,,,,,,,
+" you know have my children especially my mother my home my house we my family live on with that be a mother and look after sister and brothers 
+",1,0,,,,,,,
+" and when they hear this they be amaze and believe him themselves 
+",1,0,,,,,,,
+" you know but i dont me because he will always thats why you can i thank anyone for miller i i told him my blessing she be grateful indira if she need need i aks 
+",1,0,,,,,,,
+" he just oh look um het the kind of guy who you know like he if he come home from work he just he like to see his body in it mirror or he be doing something instead of talking another friend while i aint there 
+",1,0,,,,,,,
+" however there are places that i do now and im like hello for sure you say it proper and sure ye dont you like be too loud cause people down here judge ye 
+",1,0,,,,,,,
+"Um he was not v- t- at the time a res- To me responsible enough to take care of us so you need to be able to take care of yourself.
+",0,0,,,,,,,
+"And um you know just was one of them dudes man you know what I'm saying that you just love to be around.
+",0,0,,,,,,,
+" he just oh and um hes so kind of kind that some know like if if he come back from work he say he like to get your girlfriend in some house house he be doing something instead of talking to another boy if he aint there 
+",1,0,,,,,,,
+" what they real well got me one i said well you know their meaning give me a give me a of their it i just want they be like girl know you know how they phrase no phrase too 
+",1,0,,,,,,,
+" but he didnt know cause uh yeah thatm right it helps you and i want to always be swinging as used to hang uh you know we had these clubs you know why we use to go uptown and fight i shouldnt think you you know just one of those things one know 
+",1,0,,,,,,,
+" and annie gets huffy as if it be a pair of children down the hall she ask us what ye knowyou 
+",1,0,,,,,,,
+"It didn't really excuse me running over his legs and breaking them it's just that she said your legs wouldn't be broken right now if you hadn't taunted this young lady so.
+",0,0,,,,,,,
+"Um I didn't quite no what my path was gonna be other than that I'm'a just get my education and see where it takes me.
+",0,0,,,,,,,
+" and follow this mad cause if it be a thing about women passing the hall she ask ask do we getem 
+",1,0,,,,,,,
+" like hell imetre buried by this cousins grave to spend his night and my mom was real kidding about us be real_number their night over people houses 
+",1,0,,,,,,,
+"I always w- worked my hours so I could always be available to- to go to school for what my kids- Cause my mother never did that for us.
+",0,1,,,,,,,
+"So but we would all be taken out to the football court \ad and so here are the bleachers.
+",0,0,,,,,,,
+"And um so they taught me how to be with my kids if ever.
+",0,0,,,,,,,
+"And try your best to be great.
+",0,0,,,,,,,
+"They're not relying on the government money where they have to be cautious so they can say what they want and treat people the way they wanna treat 'em.
+",0,0,,,,,,,
+" no all of us speak mexican except also when you know like so if we take spanish in school we be school hear the other shit like stuff in spanish or something called this 
+",1,0,,,,,,,
+" yall see those little ones be out there out a few years 
+",1,0,,,,,,,
+" should there you be looking and s and somebody dont know whatever they mean say that a god 
+",1,0,,,,,,,
+"You would be borderline.
+",0,0,,,,,,,
+" split a pretty nice brand a spare bedroom with two other people and will their parents only be mega thousands a month 
+",1,0,,,,,,,
+" and information_technology be like yo no i can if i know my resume could go that get him a new job although only realistically the type of money i make i need just pick up my boy right now and be no yes no 
+",1,0,,,,,,,
+" i be scared itz such some scary thing like go ahead aksem it like nah ill remember that we always walk faster 
+",1,0,,,,,,,
+"We did whenever um I was done playing with the friends I chose to be with.
+",0,0,,,,,,,
+"Um  uh well I was gonna say that they had some- they had- they did some downsizing but you'd get some kind of severance and it was right when I was about to go to law school and I would never wish to be like laid off cause unemployment sucks been there but I'm just saying that like you know would've been really nice.
+",0,0,,,,,,,
+"So then it would be my job to talk to the families.
+",0,0,,,,,,,
+"Um I got across the gate and I ran down the street uh cut through a alley got away from the cops and it happened to be free ice cone day- I mean ice cream day at Ben and Jerry's so I went to Ben and Jerry's and got ice cream.
+",0,0,,,,,,,
+"Like this can be a way for you.
+",0,0,,,,,,,
+" split this really nice brand new house for over two dozen people and have you rent lone be three three a year 
+",1,0,,,,,,,
+"Never be afraid to follow a dream.
+",0,0,,,,,,,
+" a people of things you be like and they shouldnt who did that one you think they but look and at times it does times stupid 
+",1,0,,,,,,,
+"I guess  it would depend on the forum cause I could- I could be like look this- Mm-hm.
+",0,0,,,,,,,
+" step into really nice brand name three bedroom with two other people and make our rate only be three penny first month 
+",1,0,,,,,,,
+"You- you know you- you wanna be a millionaire you go hang around millionaires.
+",0,0,,,,,,,
+" well mom wouldnve iodine i wouldnby be messing around with empty streets and theyd go over to school 
+",1,0,,,,,,,
+"And she pulled me over and was like Olin there'll be a time when everyone thinks you're crazy and in this world if you don't think that things- How did she put it?
+",0,0,,,,,,,
+" but they didnt know cause i yeah thatr right it right you and i gonna almost always be swinging i has to give uh my know he had these clubs your know gangs we used to go uptown and fight i dont get why you know only one of those things you know 
+",1,0,,,,,,,
+" was a whole bunch of child another school season be after school are we were 
+",1,0,,,,,,,
+" canada jim think to himself as in should pretty much be that english though theyre not from canada 
+",1,0,,,,,,,
+"Was Lavon because your parents wanted you to be exposed or did y'all move over to that area?
+",0,0,,,,,,,
+"Luckily they taught me enough to be like you need to get a education so you never have to create those types of realities for your kids.
+",0,0,,,,,,,
+"and their own material that they made you know what I'm saying there would be a whole nother type of- type of- of- of- of sound whole nother type of scene and places they used to have.
+",0,0,,,,,,,
+"We moved to Upper Marlboro briefly but in Upper Marlboro from two thousand eight to two thousand thirteen God started really moving on my heart to give me a burden for the city that I didn't wanna be in.
+",0,0,,,,,,,
+"We won't- we won't be that so you're good.
+",0,0,,,,,,,
+" um but basically over the course of the dorm stay they waited until after the yeah then spring recess of my senior year to basically be like yeah you like have the list of amount of credits we graduate 
+",1,0,,,,,,,
+" and information_technology be so hilarious like i go down to carolina im excited for the weekend he talk on nas im like bro listen i know you can fuck me in your car right now and i know people like nas you tryna have but yo i use your music on you now before i can have my best night tonight you know what you mean 
+",1,0,,,,,,,
+" but they didnt get that uh yeah thats right it means you and i used to always be swinging always used really give uh you know guys have these clubs you got gangs we used to go uptown and fight just donmt know why you know just one one those things you know 
+",1,1,,,,,,,
+"But it used to be just a DC thing.
+",0,0,,,,,,,
+"It used to be wood- wooded area.
+",0,0,,,,,,,
+" can she get mad cause if information_technology be a couple of soldiers in the way we ask us do she getem 
+",1,0,,,,,,,
+" ire serious yeah and i probably walked past it cause i think what iodine told i we be walking now toward the street kids wholl hear stuff going on 
+",1,0,,,,,,,
+"So you don't wanna be like me you know I was trying to finish I started and then I stopped and then you know I had you and yeah I was trying to finish that and with you you don't wanna do th- ugh.
+",0,0,,,,,,,
+"Or like might be easy to No so anything that- like I said anything that idi- whittle me down.
+",0,0,,,,,,,
+" say i we right you there really know i be saying to somebody but thatis why the world what it is 
+",1,0,,,,,,,
+" you know but i iodine because god he said always thates why i say i thank god for miller jr he told her my sister she be like even if you hear something just talk 
+",1,0,,,,,,,
+"what- who I was and didn't know exactly where I was going and who I was gonna be.
+",0,0,,,,,,,
+" parents went to school come home sit on the neighborhood all day realizing they couldnt do anymore but be searching the internet 
+",1,0,,,,,,,
+" i i it will go on past me until then be like itm even standing on your bus so i do wait and wait for the final following 
+",1,0,,,,,,,
+" im like yeah yea i sure walked past it cause i know my dad right me we be driving like up the mountain and wej see you going south 
+",1,0,,,,,,,
+"Um and I guess at that time it- yeah fuck it it was important that I be out of my environment that I was in.
+",0,0,,,,,,,
+" he just oh and um here the kinda of guy that you know like he if josh is home from work looks like he helium to see your girlfriend in the house or even be doing something thinking of talking off another boy and he aint there 
+",1,0,,,,,,,
+"We didn't have a skill set to kn- know how to be husband and wife neither one of us did.
+",0,0,,,,,,,
+" he just liked and um heole a kind of guy that you know like he if you came home from work he like he gets to see his girlfriend girlfriend the house or he be doing something instead not talking but another boy while he wass there 
+",1,0,,,,,,,
+" however there are ways that me gotta go where im like well for sure you call this proper make sure you proper you know be too loud cause their are would hate me 
+",1,0,,,,,,,
+"And uh also just to hear their name their neighborhood being basically shout out or put on the tape you know like it'd be a whole crew of dudes just go to put they name on the tape.
+",0,0,,,,,,,
+" cause they may well gave me hell i wonder if you know their terminol get me a make her one iodine their nah i just know they be like girl a you know how boys do sh phrase words 
+",1,0,,,,,,,
+" then get bombs all over us go outside and be playing around again then we go over um someones place burn records call somebody up make jokes you know to be enemies 
+",1,0,,,,,,,
+" but they didnt know that uh yeah thatd right it helps you and i used to always be swinging i used to give uh you boys we had gun clubs you know gangs all used to go uptown or fight i dont know iodine none know because none of those things you say 
+",1,1,,,,,,,
+" well this basically after the end of my tech career he waited until my the yeah the spring semester of their senior year to kinda be like yeah you dondon have the number of amount the credits to score 
+",1,0,,,,,,,
+" herem the me and i probably walked through it cause i know cause friend it i we be walking maybe under the stairs and well see stuff going happen 
+",1,0,,,,,,,
+" im like yeah and almost even walked past it cause i know my girlfriend said mom that be walking like up the like and thesun see stuff walking away 
+",1,0,,,,,,,
+"Like those the- they're not like- you can like pay them you know to be like let me pay these people for their- for their property cause that's what they usually do with the houses but.
+",0,0,,,,,,,
+"I'd be like come on pastor give me some good stuff cause I gotta have five days of material now.
+",0,1,,,,,,,
+" so ya know know i mean since you did west coast it be your mountain of good food 
+",1,0,,,,,,,
+" before we get a cause could it be a cluster of people on the hall she ask why united_states we knowem 
+",1,0,,,,,,,
+" he just oh you um hetis the kind of thing that you know like he if he come tomorrow home work he like he like to see his girlfriend in the house would he be doing shopping sort of talking to another guest since he wantst there 
+",1,0,,,,,,,
+" but understand first rich_person family have my house my fam a house that my family live in with that be your king his father and then my brothers 
+",1,0,,,,,,,
+" she bash you what your enj as i when i watch nora clemon sometimes you just be in your own little world too like you can always enjoy things you doing 
+",1,0,,,,,,,
+" maybe they didnt know cause uh yeah thats right it helps you and it used to always be swinging i used swing give up you know we had these clubs you know it never used or go uptown and fight i donnot know why you wanted just one of these clubs you know 
+",1,0,,,,,,,
+"Now that could be a good and a bad thing.
+",0,0,,,,,,,
+"I thought I was gonna be a cartoon animator and a comic book artist cause that's you know- I love drawing and I do voi- voices and impersonations.
+",0,0,,,,,,,
+"so that I can be a part of them and I feel like we as a community um don't have intimacy outside of romantic uh interest and outside of sexual situations.
+",0,0,,,,,,,
+"It could be a semi detached row house three bedrooms w- you know one and a half baths nothing any more no fix up.
+",0,0,,,,,,,
+"So tell me a little bit about your neighborhood what- the neighborhood that you most connect with when you were little and it may be two or three different ones.
+",0,0,,,,,,,
+"Um  it would be two thousand one that I start really hitting my- my stride as the HIV education performer.
+",0,0,,,,,,,
+"Cause like Walmart wouldn't be able to afford to put a Walmart in Tenleytown.
+",0,0,,,,,,,
+"Every house that I looked at in Northwest or off of Michigan Park Northeast where I really wanted to live over by Catholic- The houses were anywhere from ten to twenty thousand dollars more could be the same identical house.
+",0,0,,,,,,,
+" so they didnya know cause uh yeah dats right it helps you and i used and always be swinging but used to think uh you know we built these clubs you run gangs we used to go uptown and fight i dont do why you know just why of those things you use 
+",1,0,,,,,,,
+" be a really neat or new one hundred with two other tenants and have the rent only be three plus angstrom month 
+",1,0,,,,,,,
+"And at the end of their presentation they mention there's this thing that's gonna be really affecting DC heavily um in about ten years and it's called HIV.
+",0,0,,,,,,,
+" some who real well call me one i mean if they know those terminol give me a promise me that of their some i just know here be people girl love you know how phrase phrase sh phrase words 
+",1,0,,,,,,,
+" i i girls all go on past us so we be like thatm not allowed on that bus so i iodine stand and get to their next one 
+",1,0,,,,,,,
+" and we get mad cause let it be those man were children in the hallway he hear maybe do we knowem 
+",1,0,,,,,,,
+"Um cause he was actually doing everything that he was supposed to be doing and he got shot.
+",0,0,,,,,,,
